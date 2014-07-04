@@ -1,4 +1,4 @@
 eggs
 ====
 
-Issue tracking for SNOMNH eggs data in the VertNet portal (portal.vertnet.org).
+Issue tracking for OMNH eggs data in the VertNet portal (portal.vertnet.org).
