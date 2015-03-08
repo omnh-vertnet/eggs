@@ -1,0 +1,109 @@
+Report for Institution Code OMNH, Resource eggs
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 54
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 24
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 4
+	Date: 2015-02-03 ; Times: 1
+	Date: 2015-02-04 ; Times: 3
+	Date: 2015-02-07 ; Times: 3
+	Date: 2015-02-10 ; Times: 1
+	Date: 2015-02-11 ; Times: 1
+	Date: 2015-02-12 ; Times: 3
+	Date: 2015-02-13 ; Times: 1
+	Date: 2015-02-17 ; Times: 5
+	Date: 2015-02-20 ; Times: 1
+	Date: 2015-02-23 ; Times: 4
+	Date: 2015-02-24 ; Times: 1
+	Date: 2015-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "prinia socialis type:specimen" ; Times: 1
+	Query: "psm Glaucidium" ; Times: 1
+	Query: "psm megascops" ; Times: 2
+	Query: "rhea americana" ; Times: 1
+	Query: "hooded warbler" ; Times: 1
+	Query: "stateprovince:"virginia" (cobbs island) mappable:1" ; Times: 1
+	Query: "chaetura pelagica mappable:1" ; Times: 1
+	Query: "alca torda eggs" ; Times: 1
+	Query: "eider type:specimen year >= 1883 year <= 1885" ; Times: 3
+	Query: "Geococcyx Californianus mappable:1" ; Times: 1
+	Query: "melospiza melodia yakima" ; Times: 1
+	Query: "yellow rail" ; Times: 2
+	Query: "owl minnesota" ; Times: 1
+	Query: "psm asio otus" ; Times: 1
+	Query: "(Spinus lawrencei)" ; Times: 1
+	Query: "psm otus asio" ; Times: 1
+	Query: "screech-owl minnesota" ; Times: 1
+	Query: "stateprovince:"texas" specificepithet:atricristatus genus:Baeolophus" ; Times: 1
+	Query: "psm micrathene" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:corax genus:corvus year >= 1800 year <= 1915" ; Times: 1
+	Query: "Parkesia motacilla" ; Times: 4
+	Query: "Picathartes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 326 download events in this period)
+Total number of records downloaded: 54 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 52
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 1
+	Date: 2015-02-04 ; Times: 2
+	Date: 2015-02-07 ; Times: 1
+	Date: 2015-02-11 ; Times: 2
+	Date: 2015-02-16 ; Times: 1
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-20 ; Times: 1
+	Date: 2015-02-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hylocharis leucotis" ; Times: 2
+	Query: "(turdus OR zoothera)" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "galbula" ; Times: 1
+	Query: "country:"Guatemala" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "Falco peregrinus eggs" ; Times: 1
+	Query: "Dryocopus pileatus mappable:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 176
+Total number of records retrieved from searches: 436
+Number of download events that retrieved data from the resource: 33
+Total number of records downloaded: 334
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 194
+Total number of records retrieved from searches: 483
+Number of download events that retrieved data from the resource: 100
+Total number of records downloaded: 909
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
