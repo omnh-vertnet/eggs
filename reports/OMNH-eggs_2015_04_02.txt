@@ -1,0 +1,83 @@
+Report for Institution Code OMNH, Resource eggs
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 11
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-02 ; Times: 1
+	Date: 2015-03-11 ; Times: 5
+	Date: 2015-03-18 ; Times: 1
+	Date: 2015-03-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "brown-headed nuthatch" ; Times: 1
+	Query: "roseate spoonbill" ; Times: 6
+	Query: "sooty grouse" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 298 download events in this period)
+Total number of records downloaded: 215 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 208
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 4
+	Country: Canada ; Times: 4
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-06 ; Times: 2
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-18 ; Times: 3
+	Date: 2015-03-24 ; Times: 4
+	Date: 2015-03-26 ; Times: 1
+	Date: 2015-03-27 ; Times: 2
+	Date: 2015-03-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"Montana" country:"United States" mappable:1" ; Times: 1
+	Query: "passerina amoena" ; Times: 1
+	Query: "Vireo olivaceus" ; Times: 1
+	Query: "stateprovince:"Alberta" country:"Canada" mappable:1" ; Times: 1
+	Query: "passerina versicolor" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: "laysan albatross" ; Times: 2
+	Query: "passerina ciris" ; Times: 1
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "passerina caerulea" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 184
+Total number of records retrieved from searches: 447
+Number of download events that retrieved data from the resource: 49
+Total number of records downloaded: 549
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 202
+Total number of records retrieved from searches: 494
+Number of download events that retrieved data from the resource: 116
+Total number of records downloaded: 1124
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
