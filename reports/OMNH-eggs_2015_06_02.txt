@@ -1,0 +1,119 @@
+Report for Institution Code OMNH, Resource eggs
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 68
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 3
+	Country: Chile ; Times: 8
+	Country: Czech Republic ; Times: 8
+	Country: Germany ; Times: 1
+	Country: United States ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 3
+	Date: 2015-05-06 ; Times: 3
+	Date: 2015-05-12 ; Times: 13
+	Date: 2015-05-13 ; Times: 2
+	Date: 2015-05-18 ; Times: 3
+	Date: 2015-05-19 ; Times: 3
+	Date: 2015-05-21 ; Times: 1
+	Date: 2015-05-24 ; Times: 2
+	Date: 2015-05-27 ; Times: 8
+	Date: 2015-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Phoebastria immutabilis type:specimen year >= 1900 year <= 1950" ; Times: 1
+	Query: "Lagopus welchi" ; Times: 8
+	Query: "olive sparrow" ; Times: 1
+	Query: "Madison Wisconsin" ; Times: 2
+	Query: "scolopax rusticola" ; Times: 1
+	Query: "adelie penguin type:specimen" ; Times: 1
+	Query: "Yellow Rail" ; Times: 1
+	Query: "Sialia sialis Arizona" ; Times: 2
+	Query: "Yellow-throated vireo" ; Times: 3
+	Query: "Sitta carolinensis UWBM" ; Times: 1
+	Query: "Greater Prairie Chicken" ; Times: 1
+	Query: "laysan albatross type:specimen year >= 1900 year <= 1950" ; Times: 1
+	Query: "egg Pyrocephalus rubinus type:specimen" ; Times: 1
+	Query: "Rhea pennata" ; Times: 8
+	Query: "baily egg" ; Times: 1
+	Query: "Sedge Wren" ; Times: 1
+	Query: "anser indicus" ; Times: 1
+	Query: "Aquila chrysaetos AND (NOT california) mappable:1" ; Times: 1
+	Query: "pterocles exustus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 976 download events in this period)
+Total number of records downloaded: 736 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 439
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 10
+	Country: Unknown ; Times: 43
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-12 ; Times: 3
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-15 ; Times: 2
+	Date: 2015-05-18 ; Times: 19
+	Date: 2015-05-19 ; Times: 25
+	Date: 2015-05-22 ; Times: 3
+	Date: 2015-05-24 ; Times: 3
+	Date: 2015-05-25 ; Times: 2
+	Date: 2015-05-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1909" ; Times: 38
+	Query: "Motacilla alba type:specimen year >= 1891 year <= 1909" ; Times: 4
+	Query: "Cistothorus palustris" ; Times: 1
+	Query: "minnesota egg" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "Tyrannidae" ; Times: 2
+	Query: "tyto alba" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "Thryothorus ludovicianus" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Streptopelia turtur" ; Times: 1
+	Query: "Cistothorus platensis" ; Times: 1
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: "ammodramus leconteii" ; Times: 1
+	Query: "certhia americana" ; Times: 1
+	Query: "Rhynchocyclus" ; Times: 2
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 223
+Total number of records retrieved from searches: 515
+Number of download events that retrieved data from the resource: 111
+Total number of records downloaded: 1285
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 241
+Total number of records retrieved from searches: 562
+Number of download events that retrieved data from the resource: 178
+Total number of records downloaded: 1860
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
