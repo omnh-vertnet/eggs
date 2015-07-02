@@ -1,0 +1,125 @@
+Report for Institution Code OMNH, Resource eggs
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 117
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 25
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-02 ; Times: 3
+	Date: 2015-06-03 ; Times: 1
+	Date: 2015-06-05 ; Times: 1
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-08 ; Times: 3
+	Date: 2015-06-12 ; Times: 2
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-18 ; Times: 4
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-20 ; Times: 4
+	Date: 2015-06-23 ; Times: 1
+	Date: 2015-06-25 ; Times: 4
+	Date: 2015-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pyrocephalus rubinus PSM" ; Times: 2
+	Query: "red-faced cormorant type:specimen" ; Times: 2
+	Query: "acrocephalus arundinaceus" ; Times: 2
+	Query: "vireo bellii california" ; Times: 1
+	Query: "archilochus alexandri oklahoma" ; Times: 2
+	Query: "Red-naped sapsucker type:specimen" ; Times: 1
+	Query: "White-tipped Dove" ; Times: 2
+	Query: "red-faced cormorant" ; Times: 3
+	Query: "cormorant (preserved)" ; Times: 1
+	Query: "clapper rail texas" ; Times: 1
+	Query: "Lake county:"San luis obispo" stateprovince:"California"" ; Times: 1
+	Query: ""FISH" institutioncode:omnh" ; Times: 1
+	Query: "cormorant (preserved) mappable:1" ; Times: 1
+	Query: "prairie warbler" ; Times: 1
+	Query: "red faced cormorant (preserved) mappable:1" ; Times: 1
+	Query: "Natural History Museum London" ; Times: 1
+	Query: "Pyrocephalus rubinus psm" ; Times: 1
+	Query: "tadorna tadorna" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1524 download events in this period)
+Total number of records downloaded: 227 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 217
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: Germany ; Times: 3
+	Country: Guatemala ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 14
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-02 ; Times: 1
+	Date: 2015-06-05 ; Times: 4
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 2
+	Date: 2015-06-18 ; Times: 1
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-20 ; Times: 7
+	Date: 2015-06-22 ; Times: 2
+	Date: 2015-06-25 ; Times: 2
+	Date: 2015-06-27 ; Times: 2
+	Date: 2015-06-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "black-legged kittiwake type:specimen" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "trochilidae" ; Times: 1
+	Query: "snow bunting type:specimen" ; Times: 1
+	Query: "aegithalos caudatus" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "pelagic cormorant type:specimen" ; Times: 1
+	Query: "rynchops niger type:specimen" ; Times: 1
+	Query: "least auklet type:specimen" ; Times: 1
+	Query: "county:"san luis obispo" stateprovince:"California" country:"United States" mappable:1" ; Times: 1
+	Query: "Calypte costae" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 1
+	Query: "red-faced cormorant type:specimen" ; Times: 2
+	Query: "type:specimen specificepithet:melodia genus:Melospiza OR Zonotrichia" ; Times: 1
+	Query: "Archilochus colubris" ; Times: 1
+	Query: "anas rubripes" ; Times: 1
+	Query: "Butorides virescens" ; Times: 1
+	Query: "tufted puffin type:specimen" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "stateprovince:"Colima" country:"Mexico"" ; Times: 1
+	Query: "tyto alba mappable:1" ; Times: 1
+	Query: "county:"Kern" stateprovince:"california" mappable:1" ; Times: 1
+	Query: "Selasphorus sasin" ; Times: 1
+	Query: "Calypte anna" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 250
+Total number of records retrieved from searches: 632
+Number of download events that retrieved data from the resource: 136
+Total number of records downloaded: 1512
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 268
+Total number of records retrieved from searches: 679
+Number of download events that retrieved data from the resource: 203
+Total number of records downloaded: 2087
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
