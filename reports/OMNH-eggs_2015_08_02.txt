@@ -1,0 +1,134 @@
+Report for Institution Code OMNH, Resource eggs
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 77
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Jamaica ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 37
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-07 ; Times: 3
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-09 ; Times: 2
+	Date: 2015-07-10 ; Times: 2
+	Date: 2015-07-14 ; Times: 5
+	Date: 2015-07-15 ; Times: 1
+	Date: 2015-07-16 ; Times: 2
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-18 ; Times: 2
+	Date: 2015-07-19 ; Times: 1
+	Date: 2015-07-20 ; Times: 2
+	Date: 2015-07-22 ; Times: 2
+	Date: 2015-07-23 ; Times: 1
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-25 ; Times: 9
+	Date: 2015-07-26 ; Times: 2
+	Date: 2015-07-27 ; Times: 2
+	Date: 2015-07-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:500" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "Branta hutchinsii type:specimen" ; Times: 1
+	Query: "Montezuma Quail" ; Times: 1
+	Query: "acanthis flammea (egg)" ; Times: 1
+	Query: "Phoenicopterus roseus type:specimen" ; Times: 1
+	Query: "cypseloides niger" ; Times: 1
+	Query: "agelaius (oroville)" ; Times: 2
+	Query: "Pinguinus impennis" ; Times: 9
+	Query: "Eurynorhynchus pygmeus" ; Times: 1
+	Query: "aepyornis" ; Times: 1
+	Query: "Tympanuchus pallidicinctus type:specimen" ; Times: 1
+	Query: "caspian tern egg" ; Times: 1
+	Query: "calliope hummingbird" ; Times: 1
+	Query: "strix nebulosa lapland" ; Times: 1
+	Query: "palmarum egg" ; Times: 1
+	Query: "Chimney Swift" ; Times: 1
+	Query: "sterna dougallii" ; Times: 2
+	Query: "specificepithet:motacilla genus:parkesia" ; Times: 1
+	Query: "stateprovince:"arizona" specificepithet:stelleri genus:cyanocitta" ; Times: 2
+	Query: "PEABODY BIRDS" ; Times: 1
+	Query: "brown nuthatch" ; Times: 1
+	Query: "Synthliboramphus hypoleucus" ; Times: 1
+	Query: "egg lapland" ; Times: 2
+	Query: "house sparrow egg" ; Times: 1
+	Query: "egg specificepithet:motacilla genus:parkesia" ; Times: 1
+	Query: "Blue Tit" ; Times: 1
+	Query: "county:"Sonoma" stateprovince:"California" year >= 1900 year <= 1900" ; Times: 1
+	Query: "Empidonax virescens egg" ; Times: 1
+	Query: "parkesia motacilla egg" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1084 download events in this period)
+Total number of records downloaded: 241 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 178
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 2
+	Date: 2015-07-02 ; Times: 1
+	Date: 2015-07-06 ; Times: 1
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-09 ; Times: 1
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 1
+	Date: 2015-07-16 ; Times: 2
+	Date: 2015-07-18 ; Times: 1
+	Date: 2015-07-19 ; Times: 4
+	Date: 2015-07-20 ; Times: 2
+	Date: 2015-07-22 ; Times: 2
+	Date: 2015-07-29 ; Times: 1
+	Date: 2015-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"arizona" specificepithet:stelleri genus:cyanocitta" ; Times: 1
+	Query: "Hylocharis leucotis" ; Times: 1
+	Query: "ruffed grouse" ; Times: 1
+	Query: "agelaius tricolor" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "Oceanodroma homochroa" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Eurynorhynchus pygmeus" ; Times: 1
+	Query: "Cyanocorax yncas" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "Loggerhead Shrike" ; Times: 1
+	Query: "aepyornis" ; Times: 2
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "county:"Utah" stateprovince:"Utah"" ; Times: 1
+	Query: "county:"Sonoma" stateprovince:"California" year >= 1900 year <= 1900" ; Times: 1
+	Query: "Synthliboramphus hypoleucus" ; Times: 3
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 292
+Total number of records retrieved from searches: 709
+Number of download events that retrieved data from the resource: 158
+Total number of records downloaded: 1753
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 310
+Total number of records retrieved from searches: 756
+Number of download events that retrieved data from the resource: 225
+Total number of records downloaded: 2328
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
