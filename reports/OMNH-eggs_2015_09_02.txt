@@ -1,0 +1,147 @@
+Report for Institution Code OMNH, Resource Egg
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 62
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 50
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-02 ; Times: 1
+	Date: 2015-08-04 ; Times: 6
+	Date: 2015-08-06 ; Times: 2
+	Date: 2015-08-07 ; Times: 3
+	Date: 2015-08-08 ; Times: 1
+	Date: 2015-08-12 ; Times: 1
+	Date: 2015-08-13 ; Times: 4
+	Date: 2015-08-15 ; Times: 2
+	Date: 2015-08-17 ; Times: 1
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-25 ; Times: 3
+	Date: 2015-08-26 ; Times: 16
+	Date: 2015-08-27 ; Times: 5
+	Date: 2015-08-28 ; Times: 2
+	Date: 2015-08-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"oregon" year >= 1895 year <= 1898" ; Times: 1
+	Query: "omnh 289" ; Times: 5
+	Query: "campephilus imperialis" ; Times: 1
+	Query: "Eurasian Blue Tit" ; Times: 1
+	Query: "Mottled Duck" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 2
+	Query: "Amazona eggs" ; Times: 4
+	Query: ""mountain plover"" ; Times: 2
+	Query: "year >= 1755 year <= 1819" ; Times: 3
+	Query: "emberiza melanocephala" ; Times: 2
+	Query: "year <= 1830" ; Times: 1
+	Query: "specificepithet:auritus genus:Phalacrocorax year >= 1918 year <= 1918" ; Times: 1
+	Query: "year >= 1755 year <= 1825" ; Times: 2
+	Query: "Chiffchaff" ; Times: 1
+	Query: "yellow rail" ; Times: 1
+	Query: "northern pygmy-owl" ; Times: 4
+	Query: "Cypseloides niger" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "acrocephalus schoenobaenus" ; Times: 1
+	Query: "falco femoralis country:"Mexico"" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:tristis (egg)" ; Times: 1
+	Query: "Rhea pennata" ; Times: 1
+	Query: "year >= 1755 year <= 1820" ; Times: 2
+	Query: "year >= 1755 year <= 1821" ; Times: 2
+	Query: "year >= 1755 year <= 1823" ; Times: 1
+	Query: "year >= 1755 year <= 1824" ; Times: 2
+	Query: "white stork" ; Times: 1
+	Query: "year >= 1755 year <= 1826" ; Times: 1
+	Query: "roseate spoonbill" ; Times: 1
+	Query: "catalognumber:122" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1138 download events in this period)
+Total number of records downloaded: 430 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 316
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 44
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-02 ; Times: 1
+	Date: 2015-08-04 ; Times: 3
+	Date: 2015-08-05 ; Times: 7
+	Date: 2015-08-06 ; Times: 2
+	Date: 2015-08-07 ; Times: 8
+	Date: 2015-08-10 ; Times: 2
+	Date: 2015-08-13 ; Times: 1
+	Date: 2015-08-17 ; Times: 7
+	Date: 2015-08-21 ; Times: 1
+	Date: 2015-08-26 ; Times: 7
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-29 ; Times: 2
+	Date: 2015-08-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Picoides nuttallii type:specimen stateprovince:"California"" ; Times: 1
+	Query: "type:specimen stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "Callipepla californica type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Polioptila caerulea" ; Times: 1
+	Query: "coturnicops noveboracensis" ; Times: 1
+	Query: "Struthio camelus" ; Times: 1
+	Query: "Corvus corax type:specimen stateprovince:"California"" ; Times: 1
+	Query: "amazona" ; Times: 1
+	Query: "Quiscalus mexicanus type:specimen" ; Times: 1
+	Query: "Pelecanus occidentalis type:specimen stateprovince:"California"" ; Times: 1
+	Query: "riverside county" ; Times: 1
+	Query: "Colaptes auratus type:specimen stateprovince:"California"" ; Times: 1
+	Query: "stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "year >= 1755 year <= 1819" ; Times: 3
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Nycticorax nycticorax type:specimen stateprovince:"California"" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "Zenaida macroura type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "Aphelocoma californica type:specimen stateprovince:"California"" ; Times: 1
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:tristis (egg)" ; Times: 1
+	Query: "Plegadis chihi type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Corvus brachyrhynchos type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Contopus sordidulus type:specimen stateprovince:"California"" ; Times: 1
+	Query: "type:specimen stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "catharus minimus" ; Times: 1
+	Query: "Butorides virescens type:specimen stateprovince:"California"" ; Times: 1
+	Query: "rallus limicola" ; Times: 1
+	Query: "Ardea herodias type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Phalacrocorax auritus type:specimen stateprovince:"California"" ; Times: 1
+	Query: "year >= 1755 year <= 1820" ; Times: 2
+	Query: "year >= 1755 year <= 1821" ; Times: 1
+	Query: "year >= 1755 year <= 1826" ; Times: 1
+	Query: "Troglodytidae" ; Times: 1
+	Query: "Cracidae" ; Times: 1
+	Query: "Rhea americana" ; Times: 1
+	Query: "sora" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 50
+Total number of records retrieved from searches: 62
+Number of download events that retrieved data from the resource: 44
+Total number of records downloaded: 430
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 50
+Total number of records retrieved from searches: 62
+Number of download events that retrieved data from the resource: 44
+Total number of records downloaded: 430
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
