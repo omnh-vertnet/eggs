@@ -1,0 +1,105 @@
+Report for Institution Code OMNH, Resource eggs
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 155
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: Canada ; Times: 2
+	Country: Argentina ; Times: 4
+	Country: Poland ; Times: 1
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-04 ; Times: 5
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-02 ; Times: 3
+	Date: 2015-10-23 ; Times: 2
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-17 ; Times: 1
+	Date: 2015-10-30 ; Times: 4
+	Date: 2015-10-29 ; Times: 4
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-24 ; Times: 6
+	Date: 2015-10-01 ; Times: 2
+	Date: 2015-10-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "cobbs island virginia" ; Times: 1
+	Query: "american wigeon" ; Times: 1
+	Query: "genus:Icteria stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "breninger" ; Times: 1
+	Query: "Little Gull" ; Times: 4
+	Query: "Red-legged Kittiwake" ; Times: 2
+	Query: "Pinguinus impennis" ; Times: 4
+	Query: "elf" ; Times: 3
+	Query: "Synthliboramphus hypoleucus California" ; Times: 1
+	Query: "emberiza melanocephala" ; Times: 2
+	Query: "Swallow-tailed Kite" ; Times: 2
+	Query: "yellow rail" ; Times: 1
+	Query: "specificepithet:californica genus:aphelocoma year &gt;= 1900 year &lt;= 1950 distance(location,geopoint(42.032974332441405,-121.904296875))&lt;297192" ; Times: 1
+	Query: "rallus limicola eggs" ; Times: 4
+	Query: "Picidae (Newfoundland or Labrador)" ; Times: 1
+	Query: "cobbs island" ; Times: 1
+	Query: "melozone aberti" ; Times: 1
+	Query: "melanoperdix" ; Times: 1
+	Query: "white-tailed hawk" ; Times: 1
+	Query: "collectioncode:egg" ; Times: 1
+	Query: "great auk" ; Times: 3
+	Query: "Milwaukee" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 823 download events in this period)
+Total number of records downloaded: 518
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Thailand ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Uganda ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-18 ; Times: 2
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-30 ; Times: 3
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "family:spheniscidae" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "yellow rail" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "sora" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "Icterus graduacauda" ; Times: 1
+	Query: "spheniscidae type:specimen class:aves" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+
+
+End of report.
