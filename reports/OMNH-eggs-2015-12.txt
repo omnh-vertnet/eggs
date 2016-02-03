@@ -1,0 +1,117 @@
+Report for Institution Code OMNH, Resource eggs
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 132
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Canada ; Times: 26
+	Country: Russia ; Times: 6
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-14 ; Times: 4
+	Date: 2015-12-09 ; Times: 5
+	Date: 2015-12-08 ; Times: 8
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-07 ; Times: 4
+	Date: 2015-12-06 ; Times: 5
+	Date: 2015-12-05 ; Times: 1
+	Date: 2015-12-04 ; Times: 4
+	Date: 2015-12-21 ; Times: 7
+	Date: 2015-12-15 ; Times: 2
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-22 ; Times: 1
+	Date: 2015-12-10 ; Times: 2
+	Date: 2015-12-11 ; Times: 1
+	Date: 2015-12-27 ; Times: 3
+	Date: 2015-12-28 ; Times: 1
+	Date: 2015-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Acadian Flycatcher egg" ; Times: 1
+	Query: "minnesota egg type:specimen" ; Times: 1
+	Query: "Chlidonias niger" ; Times: 1
+	Query: "Sterna forsteri" ; Times: 1
+	Query: "Long-billed Curlew" ; Times: 3
+	Query: "Ixobrychus exilis" ; Times: 1
+	Query: "type:specimen genus:Agapornis order:Psittaciformes (personatus)" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "perdix egg" ; Times: 1
+	Query: "Contopus virens" ; Times: 1
+	Query: "Caprimulgus vociferus" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "elf" ; Times: 8
+	Query: "Setophaga citrina" ; Times: 1
+	Query: "tadorna cristata" ; Times: 1
+	Query: "Vireo philadelphicus egg" ; Times: 1
+	Query: "Tufted Titmouse egg" ; Times: 1
+	Query: "Scolopax rusticola" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Ammodramus henslowii" ; Times: 4
+	Query: "Chaetura pelagica" ; Times: 1
+	Query: "saltmarsh sparrow" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 3
+	Query: "Podiceps auritus" ; Times: 1
+	Query: "specificepithet:lagopus genus:Buteo class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 3
+	Query: "specificepithet:lagopus genus:Buteo class:aves stateprovince:&#34;alaska&#34; year &gt;= 1900 year &lt;= 1910" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "Contopus cooperi" ; Times: 1
+	Query: "nuttall woodpecker" ; Times: 1
+	Query: "catalognumber:3018 institutioncode:OMNH" ; Times: 1
+	Query: "Melanerpes erythrocephalus" ; Times: 1
+	Query: "family:Trochilidae institutioncode:OMNH" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 889 download events in this period)
+Total number of records downloaded: 112
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Canada ; Times: 1
+	Country: Uruguay ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 1
+	Date: 2015-12-08 ; Times: 4
+	Date: 2015-12-02 ; Times: 2
+	Date: 2015-12-01 ; Times: 1
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-05 ; Times: 2
+	Date: 2015-12-04 ; Times: 2
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-31 ; Times: 4
+	Date: 2015-12-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "european starling" ; Times: 2
+	Query: "alauda" ; Times: 1
+	Query: "minnesota egg type:specimen" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "pelecanus erythrorhynchos" ; Times: 1
+	Query: "Ammodramus caudacutus" ; Times: 1
+	Query: "Archilochus alexandri type:specimen" ; Times: 1
+	Query: "scarlet macaw" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "Empidonax difficilis" ; Times: 1
+	Query: "larimer aves" ; Times: 1
+	Query: "sturnella neglecta" ; Times: 1
+	Query: "Cardellina pusilla" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "Archilochus colubris type:specimen" ; Times: 2
+	Query: "Pueblo Colorado Aves" ; Times: 1
+
+
+End of report.
