@@ -1,0 +1,123 @@
+Report for Institution Code OMNH, Resource eggs
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 152
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 28
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 13
+	Country: Russia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-27 ; Times: 5
+	Date: 2015-11-15 ; Times: 1
+	Date: 2015-11-16 ; Times: 2
+	Date: 2015-11-06 ; Times: 1
+	Date: 2015-11-09 ; Times: 1
+	Date: 2015-11-19 ; Times: 1
+	Date: 2015-11-24 ; Times: 14
+	Date: 2015-11-30 ; Times: 2
+	Date: 2015-11-04 ; Times: 12
+	Date: 2015-11-05 ; Times: 1
+	Date: 2015-11-10 ; Times: 2
+	Date: 2015-11-02 ; Times: 1
+	Date: 2015-11-03 ; Times: 2
+	Date: 2015-11-26 ; Times: 1
+	Date: 2015-11-12 ; Times: 2
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-17 ; Times: 1
+	Date: 2015-11-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:albicollis genus:zonotrichia year &lt;= 1900" ; Times: 1
+	Query: "band-tailed pigeon" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:stevens year &gt;= 1900 year &lt;= 1910" ; Times: 1
+	Query: "Flamingo egg" ; Times: 6
+	Query: "genus:megaceryle class:aves AND (not alcyon) year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "Phoenicopterus (egg)" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:stevens institutioncode:OMNH" ; Times: 1
+	Query: "Crotophaga ani eggs" ; Times: 1
+	Query: "long-billed curlew year &gt;= 1800 year &lt;= 1900" ; Times: 2
+	Query: "elf" ; Times: 9
+	Query: "emberiza melanocephala" ; Times: 1
+	Query: "long-billed curlew year &gt;= 1800 year &lt;= 1960" ; Times: 1
+	Query: "Anas cyanoptera eggs" ; Times: 1
+	Query: "Platalea ajaja eggs" ; Times: 2
+	Query: "Megaceryle torquata eggs" ; Times: 1
+	Query: "Rhea americana eggs" ; Times: 1
+	Query: "Phalacrocorax brasilianus eggs" ; Times: 1
+	Query: "Dendrocygna bicolor eggs" ; Times: 1
+	Query: "long-billed curlew" ; Times: 1
+	Query: "pteroclidae" ; Times: 1
+	Query: "Gray hawk eggs" ; Times: 1
+	Query: "Parabuteo unicinctus eggs" ; Times: 1
+	Query: "banff national park" ; Times: 1
+	Query: "song sparrow type:specimen year &gt;= 1900 year &lt;= 2015 distance(location,geopoint(33.90689555128866,-118.157958984375))&lt;138568" ; Times: 1
+	Query: "Podilymbus podiceps eggs" ; Times: 1
+	Query: "specificepithet:carolinensis genus:poecile year &gt;= 1815 year &lt;= 1915" ; Times: 1
+	Query: "flamingo egg" ; Times: 2
+	Query: "Oxyura jamaicensis eggs" ; Times: 1
+	Query: "Chloroceryle americana eggs" ; Times: 1
+	Query: "locality:San Benedicto Island" ; Times: 1
+	Query: "MMNH egg" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:stevens g.w." ; Times: 3
+	Query: "Butorides striata eggs" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 751 download events in this period)
+Total number of records downloaded: 116
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 13
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: Belgium ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-24 ; Times: 2
+	Date: 2015-11-21 ; Times: 4
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-30 ; Times: 2
+	Date: 2015-11-11 ; Times: 1
+	Date: 2015-11-02 ; Times: 2
+	Date: 2015-11-10 ; Times: 1
+	Date: 2015-11-26 ; Times: 2
+	Date: 2015-11-23 ; Times: 2
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-14 ; Times: 2
+	Date: 2015-11-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "puffinus" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "zealand year &gt;= 1820 year &lt;= 1950" ; Times: 1
+	Query: "type:specimen order:Psittaciformes" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "Myiarchus tuberculifer mappable:1" ; Times: 1
+	Query: "ploceus" ; Times: 2
+	Query: "Tympanuchus cupido" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "order:Psittaciformes" ; Times: 2
+	Query: "uria aalge eggs" ; Times: 1
+	Query: "Salpinctes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "type:specimen (selasphorus) AND (NOT scintilla NOT ardens NOT flammula NOT platycercus NOT rufus NOT calliope NOT torridus NOT simoni)" ; Times: 1
+	Query: "class:aves mappable:1 year&gt;=1976 year&lt;=1977" ; Times: 1
+	Query: "Corvus corax type:specimen" ; Times: 1
+	Query: "class:aves mappable:1 year&gt;=1976 year&lt;=1986" ; Times: 1
+	Query: "type:specimen (selasphorus) AND (NOT rufus AND NOT platycercus)" ; Times: 1
+	Query: "Corvus corax type:specimen mappable:1" ; Times: 1
+
+
+End of report.
