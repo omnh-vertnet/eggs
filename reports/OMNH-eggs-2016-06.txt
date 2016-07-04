@@ -1,0 +1,129 @@
+Report for Institution Code OMNH, Resource eggs
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 124
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 47
+	Country: United Kingdom ; Times: 1
+	Country: Russia ; Times: 7
+	Country: Portugal ; Times: 8
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-23 ; Times: 2
+	Date: 2016-06-22 ; Times: 2
+	Date: 2016-06-18 ; Times: 2
+	Date: 2016-06-19 ; Times: 5
+	Date: 2016-06-16 ; Times: 7
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-14 ; Times: 11
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-01 ; Times: 3
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-03 ; Times: 8
+	Date: 2016-06-11 ; Times: 1
+	Date: 2016-06-10 ; Times: 5
+	Date: 2016-06-04 ; Times: 4
+	Date: 2016-06-20 ; Times: 3
+	Date: 2016-06-02 ; Times: 1
+	Date: 2016-06-07 ; Times: 2
+	Date: 2016-06-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "1905 AND Catalina ISland NOT Fishe" ; Times: 1
+	Query: "egg Iceland 1909" ; Times: 1
+	Query: "imperial woodpecker" ; Times: 1
+	Query: "egg duncan" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1895 year &lt;= 1895" ; Times: 1
+	Query: "magnolia warbler egg" ; Times: 1
+	Query: "egg vancouver 1918" ; Times: 1
+	Query: "Peyton AND Anacapa" ; Times: 1
+	Query: "egg texas 1900" ; Times: 1
+	Query: "Work AND Anacapa Island" ; Times: 1
+	Query: "egg siberia" ; Times: 1
+	Query: "Pelecanus AND Anacapa Island NOT Anderson NOT Kiff" ; Times: 2
+	Query: "Law AND Anacapa" ; Times: 1
+	Query: "egg iceland 1909" ; Times: 1
+	Query: "1903 AND Catalina ISland NOT Velero" ; Times: 1
+	Query: "egg washington 1919" ; Times: 1
+	Query: "1905 AND Catalina ISland NOT Fish NOT Velero" ; Times: 1
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "elf" ; Times: 8
+	Query: "egg 1924 england" ; Times: 1
+	Query: "Breninger AND PSM" ; Times: 1
+	Query: "Pelican AND Anacapa" ; Times: 1
+	Query: "Toxostoma bendirei" ; Times: 1
+	Query: "oak titmouse" ; Times: 1
+	Query: "egg iceland 1883" ; Times: 1
+	Query: "Toxostoma crissale" ; Times: 1
+	Query: "egg 1897 kansas" ; Times: 1
+	Query: "1905 AND Catalina ISland NOT Fishes" ; Times: 1
+	Query: "egg 1904 florida" ; Times: 1
+	Query: "1905 AND Catalina ISland NOT Fish" ; Times: 2
+	Query: "Alopochen aegyptiaca 1" ; Times: 3
+	Query: "Toxostoma longirostre" ; Times: 1
+	Query: "Breninger AND 1896" ; Times: 1
+	Query: "acorn woodpecker" ; Times: 4
+	Query: "Pelecanus AND Anacapa Island NOT Anderson" ; Times: 1
+	Query: "Smith AND Catalina" ; Times: 2
+	Query: "tufts nova scotia" ; Times: 1
+	Query: "Oxyura jamaicensis 1" ; Times: 2
+	Query: "Oceanodroma homochroa egg" ; Times: 2
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "Agapornis personatus 1" ; Times: 3
+	Query: "specificepithet:ludovicianus genus:Lanius stateprovince:&#34;michigan&#34; year &gt;= 1895 year &lt;= 1895" ; Times: 1
+	Query: "egg iceland larus marinus" ; Times: 1
+	Query: "Pelecanus AND Anacapa Island" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;White-breasted Nuthatch&#34; OR &#34;Sitta carolinensis&#34;) mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1052 download events in this period)
+Total number of records downloaded: 109
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 3
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-08 ; Times: 1
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-05 ; Times: 4
+	Date: 2016-06-04 ; Times: 1
+	Date: 2016-06-14 ; Times: 1
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-02 ; Times: 1
+	Date: 2016-06-16 ; Times: 1
+	Date: 2016-06-20 ; Times: 1
+	Date: 2016-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "uwbm red-tailed hawk" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;White-breasted Nuthatch&#34; OR &#34;Sitta carolinensis&#34;) mappable:1" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "trogon elegans" ; Times: 1
+	Query: "ara macao" ; Times: 4
+	Query: "magnolia warbler" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+
+
+End of report.
