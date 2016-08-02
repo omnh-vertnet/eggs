@@ -1,0 +1,156 @@
+Report for Institution Code OMNH, Resource eggs
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 371
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 52
+	Country: Portugal ; Times: 5
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 2
+	Date: 2016-07-25 ; Times: 1
+	Date: 2016-07-26 ; Times: 1
+	Date: 2016-07-27 ; Times: 15
+	Date: 2016-07-20 ; Times: 7
+	Date: 2016-07-14 ; Times: 6
+	Date: 2016-07-16 ; Times: 2
+	Date: 2016-07-19 ; Times: 2
+	Date: 2016-07-18 ; Times: 7
+	Date: 2016-07-08 ; Times: 1
+	Date: 2016-07-28 ; Times: 4
+	Date: 2016-07-13 ; Times: 1
+	Date: 2016-07-29 ; Times: 1
+	Date: 2016-07-12 ; Times: 4
+	Date: 2016-07-06 ; Times: 5
+	Date: 2016-07-15 ; Times: 1
+	Date: 2016-07-21 ; Times: 6
+	Date: 2016-07-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:occidentalis class:aves stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Anacapa Island AND Eggs AND 1920" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:e.c. AND (NOT wfvz)" ; Times: 1
+	Query: "Tadorna cristata" ; Times: 3
+	Query: "Anacapa AND Birds AND 1930" ; Times: 1
+	Query: "class:aves county:&#34;solano&#34; stateprovince:&#34;california&#34; (egg OR nest)" ; Times: 1
+	Query: "Dinornis" ; Times: 1
+	Query: "class:aves locality:ungava country:&#34;canada&#34;" ; Times: 1
+	Query: "Colinus virginianus 1" ; Times: 1
+	Query: "Amazona eggs" ; Times: 1
+	Query: "Anacapa AND Birds AND 1920" ; Times: 1
+	Query: "Alopochen aegyptiaca 1" ; Times: 1
+	Query: "type:specimen specificepithet:exilis genus:ixobrychus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 2
+	Query: "Anacapa Island AND Eggs AND 1930" ; Times: 1
+	Query: "egg michigan 1894" ; Times: 1
+	Query: "Cygnus atratus 1" ; Times: 1
+	Query: "Anacapa Island AND Birds AND 1920" ; Times: 1
+	Query: "type:specimen specificepithet:exilis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT zoo NOT captive)" ; Times: 4
+	Query: "Tadorna minor" ; Times: 1
+	Query: "american crow egg" ; Times: 5
+	Query: "type:specimen specificepithet:ludovicianus genus:lanius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:macularius genus:actitis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "class:aves county:&#34;Solano&#34; stateprovince:&#34;california&#34; (egg OR nest)" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "type:specimen specificepithet:maculariUS genus:actitis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "class:aves stateprovince:&#34;british columbia&#34; country:&#34;canada&#34; year &gt;= 1901 year &lt;= 1901" ; Times: 1
+	Query: "Oxyura jamaicensis 1" ; Times: 1
+	Query: "eastern whip-poor-will" ; Times: 2
+	Query: "type:specimen specificepithet:tristis genus:spinus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 2
+	Query: "gbifdatasetid:39f021d5-240c-445d-b62f-33bfed94938d" ; Times: 2
+	Query: "Agapornis personatus 1" ; Times: 1
+	Query: "zerlang" ; Times: 1
+	Query: "great auk" ; Times: 15
+	Query: "tachybaptus dominicus" ; Times: 1
+	Query: "egg handsaker" ; Times: 1
+	Query: "egg 1906 alberta" ; Times: 1
+	Query: "type:specimen specificepithet:subis genus:progne class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "egg hayward creek" ; Times: 1
+	Query: "Anacapa Island AND Birds AND 1930" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:e.c. AND (NOT wfvz NOT ypm NOT mvz)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 1219 download events in this period)
+Total number of records downloaded: 99
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: Unknown ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 3
+	Date: 2016-07-25 ; Times: 2
+	Date: 2016-07-26 ; Times: 1
+	Date: 2016-07-09 ; Times: 1
+	Date: 2016-07-15 ; Times: 2
+	Date: 2016-07-14 ; Times: 4
+	Date: 2016-07-22 ; Times: 4
+	Date: 2016-07-23 ; Times: 4
+	Date: 2016-07-18 ; Times: 7
+	Date: 2016-07-16 ; Times: 1
+	Date: 2016-07-28 ; Times: 4
+	Date: 2016-07-10 ; Times: 1
+	Date: 2016-07-17 ; Times: 3
+	Date: 2016-07-07 ; Times: 1
+	Date: 2016-07-20 ; Times: 3
+	Date: 2016-07-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "type:specimen specificepithet:rufum genus:toxostoma class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:lentiginosus genus:botaurus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT zoo NOT captive)" ; Times: 1
+	Query: "type:specimen specificepithet:maculariUS genus:actitis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Casuarius" ; Times: 1
+	Query: "type:specimen specificepithet:minimus genus:empidonax class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "class:aves county:&#34;solano&#34; stateprovince:&#34;california&#34; (egg OR nest)" ; Times: 2
+	Query: "type:specimen specificepithet:jamaicensis genus:buteo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:podiceps genus:podilymbus stateprovince:&#34;michigan&#34; AND (NOT audio)" ; Times: 1
+	Query: "type:specimen specificepithet:palustris genus:cistothorus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:erythrocephalus genus:melanerpes class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:exilis genus:ixobrychus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "catharus ustulatus" ; Times: 1
+	Query: "type:specimen specificepithet:virens genus:contopus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "isle royale" ; Times: 1
+	Query: "type:specimen specificepithet:exilis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT zoo NOT captive)" ; Times: 2
+	Query: "type:specimen specificepithet:tyrannus genus:tyrannus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:chrysoptera genus:vermivora class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Leptotila verreauxi" ; Times: 1
+	Query: "type:specimen specificepithet:caspia stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "genus:Casuarius" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:chlidonias stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:ludovicianus genus:lanius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:subis genus:progne class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:argentatus genus:larus stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "type:specimen specificepithet:phoeniceus genus:agelaius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "buccinator" ; Times: 1
+	Query: "type:specimen specificepithet:lineatus genus:buteo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:ruticilla genus:setophaga class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "catharus guttatus" ; Times: 1
+	Query: "Agelaius tricolor" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "motacilla" ; Times: 1
+	Query: "type:specimen specificepithet:galbula genus:icterus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:podiceps genus:podilymbus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:auratus genus:colaptes class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 2
+	Query: "type:specimen class:Aves county:&#34;brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:sitta class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:erythrophthalmus genus:pipilo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+
+
+End of report.
