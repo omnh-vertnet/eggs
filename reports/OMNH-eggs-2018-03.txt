@@ -1,0 +1,137 @@
+Report for Institution Code OMNH, Resource eggs
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 101
+Number of records retrieved in searches: 190
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Honduras ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 93
+	Country: China ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 2
+	Date: 2018-03-06 ; Times: 3
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-07 ; Times: 3
+	Date: 2018-03-23 ; Times: 4
+	Date: 2018-03-12 ; Times: 1
+	Date: 2018-03-16 ; Times: 5
+	Date: 2018-03-02 ; Times: 4
+	Date: 2018-03-03 ; Times: 2
+	Date: 2018-03-05 ; Times: 4
+	Date: 2018-03-28 ; Times: 7
+	Date: 2018-03-29 ; Times: 3
+	Date: 2018-03-26 ; Times: 19
+	Date: 2018-03-09 ; Times: 6
+	Date: 2018-03-27 ; Times: 16
+	Date: 2018-03-18 ; Times: 1
+	Date: 2018-03-22 ; Times: 2
+	Date: 2018-03-30 ; Times: 3
+	Date: 2018-03-20 ; Times: 3
+	Date: 2018-03-21 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Otus asio minnesota" ; Times: 1
+	Query: "aquila pomarina" ; Times: 1
+	Query: "OMNH 3039" ; Times: 1
+	Query: "genus:Casuarius specificepithet:Casuarius" ; Times: 5
+	Query: "genus:Diomedea specificepithet:exulans" ; Times: 2
+	Query: "Melozone crissalis" ; Times: 1
+	Query: "county:&#34;santa clara&#34; year &gt;= 1890 year &lt;= 1890" ; Times: 1
+	Query: "recordedby:Smith year &gt;= 1901 year &lt;= 1901" ; Times: 1
+	Query: "Lesser Nighthawk" ; Times: 1
+	Query: "catalognumber:2045 institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:cassinii genus:Peucaea class:Aves" ; Times: 1
+	Query: "genus:Gelochelidon specificepithet:nilotica" ; Times: 5
+	Query: "buteo swainsoni" ; Times: 1
+	Query: "specificepithet:personatus genus:Agapornis" ; Times: 3
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 3
+	Query: "elf" ; Times: 4
+	Query: "class:Aves country:&#34;Spain&#34; institutioncode:OMNH" ; Times: 1
+	Query: "genus:Ara specificepithet:macao" ; Times: 5
+	Query: "specificepithet:tristis genus:Spinus year &gt;= 1894 year &lt;= 1894" ; Times: 1
+	Query: "aepyornis" ; Times: 9
+	Query: "OMNH 1460" ; Times: 1
+	Query: "eastern screech-owl minnesota" ; Times: 1
+	Query: "genus:Anas specificepithet:discors" ; Times: 3
+	Query: "aquila clanga" ; Times: 2
+	Query: "recordedby:Taylor year &gt;= 1894 year &lt;= 1894" ; Times: 1
+	Query: "order:Accipitriformes class:Aves country:&#34;Spain&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Alectoris specificepithet:rufa" ; Times: 2
+	Query: "genus:Alca specificepithet:torda" ; Times: 5
+	Query: "genus:Aepyornis" ; Times: 3
+	Query: "genus:Phasianus specificepithet:colchicus" ; Times: 2
+	Query: "genus:Ciconia specificepithet:ciconia" ; Times: 2
+	Query: "genus:Aix specificepithet:sponsa" ; Times: 2
+	Query: "recordedby:Smith year &gt;= 1904 year &lt;= 1904" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 3
+	Query: "genus:Aepyornis basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "genus:Struthio specificepithet:camelus" ; Times: 2
+	Query: "genus:Gavia specificepithet:immer" ; Times: 1
+	Query: "Megascops asio minnesota" ; Times: 1
+	Query: "genus:Amazona specificepithet:viridigenalis" ; Times: 5
+	Query: "genus:Geococcyx specificepithet:californianus" ; Times: 2
+	Query: "genus:Rhynchotus specificepithet:rufescens" ; Times: 5
+	Query: "order:Aepyornithiformes" ; Times: 1
+	Query: "genus:Chen specificepithet:caerulescens" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1284 download events in this period)
+Total number of records downloaded: 75
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 3
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 2
+	Date: 2018-03-02 ; Times: 2
+	Date: 2018-03-03 ; Times: 1
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-07 ; Times: 2
+	Date: 2018-03-08 ; Times: 3
+	Date: 2018-03-27 ; Times: 5
+	Date: 2018-03-12 ; Times: 2
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen country:&#34;Brazil&#34; (egg)" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "specificepithet:imperialis genus:Campephilus country:&#34;mexico&#34;" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:junco" ; Times: 1
+	Query: "Egretta rufescens" ; Times: 1
+	Query: "Otus asio minnesota" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "class:Aves country:&#34;Portugal&#34;" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "order:Accipitriformes class:Aves country:&#34;Spain&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Megascops asio minnesota" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "Caprimulgus aegyptius" ; Times: 2
+	Query: "Alder Flycatcher" ; Times: 1
+	Query: "Cardellina pusilla" ; Times: 1
+	Query: "aphelocoma woodhouseii" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "painted bunting" ; Times: 1
+
+
+End of report.
