@@ -1,0 +1,131 @@
+Report for Institution Code OMNH, Resource eggs
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 79
+Number of records retrieved in searches: 175
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 64
+	Country: United Kingdom ; Times: 12
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 14
+	Date: 2018-05-04 ; Times: 10
+	Date: 2018-05-05 ; Times: 5
+	Date: 2018-05-11 ; Times: 5
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-12 ; Times: 4
+	Date: 2018-05-19 ; Times: 13
+	Date: 2018-05-17 ; Times: 4
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-15 ; Times: 5
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-21 ; Times: 1
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 3
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-14 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(42.186861331453,-83.1081271922452))&lt;9629" ; Times: 1
+	Query: "distance(location,geopoint(44.89221551525,-95.84415616))&lt;61793" ; Times: 2
+	Query: "band-tailed pigeon" ; Times: 1
+	Query: "distance(location,geopoint(43.7794818444475,-94.1929983009111))&lt;6933" ; Times: 2
+	Query: "distance(location,geopoint(44.8222615935063,-93.8939967936303))&lt;26036" ; Times: 2
+	Query: "distance(location,geopoint(45.2521729495,-92.422245926))&lt;19803" ; Times: 2
+	Query: "distance(location,geopoint(45.0386038400001,-96.221293923))&lt;30445" ; Times: 2
+	Query: "specificepithet:gallopavo genus:Meleagris country:&#34;Mexico&#34; year &gt;= 1850 year &lt;= 1970" ; Times: 1
+	Query: "spoon-billed sandpiper" ; Times: 1
+	Query: "distance(location,geopoint(43.198280134,-93.665024173))&lt;9598" ; Times: 2
+	Query: "specificepithet:graduacauda genus:Icterus" ; Times: 1
+	Query: "distance(location,geopoint(42.2832807888075,-83.1083580444698))&lt;9603" ; Times: 1
+	Query: "royal tern" ; Times: 1
+	Query: "specificepithet:yncas genus:Cyanocorax" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Cinclus" ; Times: 1
+	Query: "specificepithet:brevipennis genus:Vireo" ; Times: 1
+	Query: "distance(location,geopoint(42.3817092765,-95.075834517))&lt;14195" ; Times: 3
+	Query: "elf" ; Times: 2
+	Query: "distance(location,geopoint(43.067916277931,-89.428143815909))&lt;9664" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Catherpes" ; Times: 1
+	Query: "specificepithet:botterii genus:Peucaea" ; Times: 1
+	Query: "specificepithet:phaeonotus genus:Junco" ; Times: 1
+	Query: "aepyornis" ; Times: 4
+	Query: "distance(location,geopoint(43.2547916795001,-94.2313004395))&lt;32280" ; Times: 2
+	Query: "distance(location,geopoint(43.749976328584,-88.6470217159059))&lt;26905" ; Times: 1
+	Query: "distance(location,geopoint(43.6738037431065,-94.0604823337869))&lt;9135" ; Times: 2
+	Query: "distance(location,geopoint(42.2762592793943,-83.2359649961864))&lt;5242" ; Times: 1
+	Query: "specificepithet:chrysops genus:Cyanocorax" ; Times: 1
+	Query: "distance(location,geopoint(44.0128878392582,-94.1287720894129))&lt;40780" ; Times: 1
+	Query: "specificepithet:morio genus:Psilorhinus" ; Times: 1
+	Query: "distance(location,geopoint(38.823841899042,-90.7090116510005))&lt;58590" ; Times: 1
+	Query: "distance(location,geopoint(41.0082879640365,-89.3925110450531))&lt;13315" ; Times: 1
+	Query: "distance(location,geopoint(38.005845063,-89.9754001465))&lt;46441" ; Times: 2
+	Query: "distance(location,geopoint(45.589535943,-95.44487865))&lt;31453" ; Times: 2
+	Query: "Oreothlypis luciae" ; Times: 1
+	Query: "specificepithet:olivaceus genus:Tiaris" ; Times: 1
+	Query: "distance(location,geopoint(45.50675844225,-95.9057693345))&lt;68126" ; Times: 2
+	Query: "distance(location,geopoint(43.6738092305001,-93.9502987805))&lt;29164" ; Times: 2
+	Query: "specificepithet:rufivirgatus genus:Arremonops" ; Times: 1
+	Query: "specificepithet:atricristatus genus:Baeolophus" ; Times: 1
+	Query: "red-legged kittiwake" ; Times: 1
+	Query: "distance(location,geopoint(46.549969033168,-93.2889456231873))&lt;14587" ; Times: 2
+	Query: "specificepithet:pictus genus:Chrysolophus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(44.707048188,-95.953677021))&lt;41601" ; Times: 2
+	Query: "specificepithet:cinctus genus:poecile class:aves" ; Times: 1
+	Query: "distance(location,geopoint(42.212541833,-83.139158085))&lt;3263" ; Times: 2
+	Query: "distance(location,geopoint(41.115162657804,-89.3887602040832))&lt;14794" ; Times: 1
+	Query: "distance(location,geopoint(43.7794818444475,-94.0487547757475))&lt;9867" ; Times: 2
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "distance(location,geopoint(43.5855034415,-88.6414220575))&lt;8668" ; Times: 2
+	Query: "distance(location,geopoint(43.1571285953795,-89.428143815909))&lt;9654" ; Times: 1
+	Query: "distance(location,geopoint(43.0969653373316,-93.4336533711819))&lt;29868" ; Times: 1
+	Query: "Onychoprion aleuticus" ; Times: 3
+	Query: "distance(location,geopoint(45.3941139210832,-96.4433876691735))&lt;48705" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1178 download events in this period)
+Total number of records downloaded: 60
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-17 ; Times: 3
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-29 ; Times: 2
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "icterus gularis" ; Times: 1
+	Query: "specificepithet:anna genus:Calypte" ; Times: 1
+	Query: "Hybrid vntype:specimen class:Aves" ; Times: 1
+	Query: "specificepithet:ossifragus genus:Corvus year &gt;= 1800 year &lt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;American robin&#34; vntype:specimen specificepithet:migratorius genus:Turdus" ; Times: 1
+	Query: "pileated woodpecker" ; Times: 1
+	Query: "puffinus creatopus" ; Times: 1
+	Query: "specificepithet:gallopavo genus:Meleagris country:&#34;Mexico&#34; year &gt;= 1890 year &lt;= 1970" ; Times: 1
+	Query: "Columbina passerina" ; Times: 1
+	Query: "specificepithet:mollissima genus:Somateria" ; Times: 1
+	Query: "Onychoprion aleuticus" ; Times: 2
+	Query: "gulf of california class:aves year &lt;= 1960" ; Times: 1
+
+
+End of report.
