@@ -1,0 +1,90 @@
+Report for Institution Code OMNH, Resource eggs
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 189
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Gambia ; Times: 6
+	Country: United States ; Times: 18
+	Country: China ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-31 ; Times: 3
+	Date: 2017-12-24 ; Times: 1
+	Date: 2017-12-07 ; Times: 4
+	Date: 2017-12-16 ; Times: 1
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-01 ; Times: 2
+	Date: 2017-12-11 ; Times: 2
+	Date: 2017-12-09 ; Times: 7
+	Date: 2017-12-19 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Megascops minnesota" ; Times: 1
+	Query: "Gray-cheeked Thrush" ; Times: 1
+	Query: "great shearwater" ; Times: 1
+	Query: "reinecke" ; Times: 1
+	Query: "royal tern" ; Times: 5
+	Query: "screech-owl minnesota eggs" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "eastern screech-owl minnesota eggs" ; Times: 1
+	Query: "cackling goose" ; Times: 1
+	Query: "egg vntype:specimen class:aves country:&#34;brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(44.4200546825001,-71.526293728))&lt;11964" ; Times: 1
+	Query: "trumpeter swan" ; Times: 1
+	Query: "class:aves stateprovince:&#34;nebraska&#34; (eggs) institutioncode:OMNH" ; Times: 1
+	Query: "Megascops minnesota eggs" ; Times: 1
+	Query: "gbifdatasetid:39f021d5-240c-445d-b62f-33bfed94938d" ; Times: 1
+	Query: "Bodfish vntype:specimen class:aves continent:North America year &gt;= 1880 year &lt;= 1905" ; Times: 1
+	Query: "crowfoot vntype:specimen class:aves (egg eggs)" ; Times: 1
+	Query: "Calidris alpina Orkney egg" ; Times: 1
+	Query: "Megascops minnesota egg" ; Times: 2
+	Query: "least bittern egg" ; Times: 2
+	Query: "Rhynchotus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;nebraska&#34; institutioncode:OMNH" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 674 download events in this period)
+Total number of records downloaded: 63
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 5
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-05 ; Times: 2
+	Date: 2017-12-17 ; Times: 3
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-12 ; Times: 1
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "arremonops" ; Times: 1
+	Query: "Megaceryle alcyon" ; Times: 1
+	Query: "egg vntype:specimen class:aves country:&#34;brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "eggs brazil" ; Times: 1
+	Query: "kittiwake" ; Times: 1
+	Query: "egg aves brazil" ; Times: 1
+	Query: "clangula hyemalis" ; Times: 1
+	Query: "brazil AND aves AND egg OR eggs OR nest OR nests" ; Times: 1
+	Query: "egg brazil" ; Times: 1
+	Query: "Virginia Rail" ; Times: 1
+
+
+End of report.
