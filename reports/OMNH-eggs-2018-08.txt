@@ -1,0 +1,122 @@
+Report for Institution Code OMNH, Resource eggs
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 79
+Number of records retrieved in searches: 99
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 42
+	Country: Canada ; Times: 3
+	Country: Venezuela ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Unknown ; Times: 31
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-06 ; Times: 37
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-31 ; Times: 2
+	Date: 2018-08-02 ; Times: 1
+	Date: 2018-08-23 ; Times: 3
+	Date: 2018-08-22 ; Times: 5
+	Date: 2018-08-20 ; Times: 3
+	Date: 2018-08-16 ; Times: 2
+	Date: 2018-08-07 ; Times: 14
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-14 ; Times: 4
+	Date: 2018-08-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:colubris (eggs)" ; Times: 1
+	Query: "Onychoprion aleuticus" ; Times: 48
+	Query: "27449" ; Times: 1
+	Query: "specificepithet:henslowii genus:Ammodramus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 1
+	Query: "class:Aves recordedby:Carless" ; Times: 2
+	Query: "great shearwater" ; Times: 1
+	Query: "genus:Catharus year &gt;= 1898 year &lt;= 1898 startdayofyear &gt;= 174 enddayofyear &gt;= 174" ; Times: 1
+	Query: "specificepithet:henslowii genus:Ammodramus institutioncode:OMNH" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 3
+	Query: "egg 1898 point barrow alaska" ; Times: 1
+	Query: "genus:Psaltriparus year &gt;= 1903 year &lt;= 1903" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus year &gt;= 1904 year &lt;= 1904" ; Times: 2
+	Query: "egg point barrow alaska" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 4
+	Query: "spoon-billed" ; Times: 1
+	Query: "specificepithet:minimus genus:Catharus year &gt;= 1898 year &lt;= 1898" ; Times: 1
+	Query: "genus:Catharus year &gt;= 1904 year &lt;= 1904" ; Times: 2
+	Query: "Chrysolophus pictus" ; Times: 1
+	Query: "specificepithet:henslowii genus:Ammodramus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 1416 download events in this period)
+Total number of records downloaded: 483
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Mexico ; Times: 29
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-06 ; Times: 3
+	Date: 2018-08-13 ; Times: 4
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-09 ; Times: 2
+	Date: 2018-08-19 ; Times: 8
+	Date: 2018-08-16 ; Times: 2
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-14 ; Times: 8
+	Date: 2018-08-15 ; Times: 11
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-07 ; Times: 1
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Passerculus sandwichensis" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "sooty tern" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "Aleutian Tern" ; Times: 1
+	Query: "recordedby:Baron" ; Times: 1
+	Query: "Asio flammeus" ; Times: 5
+	Query: "class:Aves country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Charadrius montanus" ; Times: 1
+	Query: "great tailed grackle" ; Times: 1
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "Falco sparverius" ; Times: 1
+	Query: "Numenius americanus" ; Times: 1
+	Query: "fulmar" ; Times: 1
+	Query: "Anthus spragueii" ; Times: 1
+	Query: "Tyrannus vociferans" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Euphagus cyanocephalus" ; Times: 1
+	Query: "Sialia currucoides" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Calamospiza melanocorys" ; Times: 1
+	Query: "order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Strix varia" ; Times: 1
+	Query: "Buteo regalis" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "Peucaea botterii" ; Times: 1
+	Query: "Peucaea cassinii" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "Sturnella neglecta" ; Times: 1
+	Query: "Pooecetes gramineus" ; Times: 1
+	Query: "Onychoprion aleuticus" ; Times: 4
+
+
+End of report.
