@@ -1,0 +1,171 @@
+Report for Institution Code OMNH, Resource eggs
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 101
+Number of records retrieved in searches: 279
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 33
+	Country: China ; Times: 2
+	Country: Peru ; Times: 60
+	Country: Germany ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-11 ; Times: 3
+	Date: 2018-07-29 ; Times: 4
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-14 ; Times: 1
+	Date: 2018-07-31 ; Times: 4
+	Date: 2018-07-19 ; Times: 3
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-26 ; Times: 1
+	Date: 2018-07-27 ; Times: 7
+	Date: 2018-07-24 ; Times: 56
+	Date: 2018-07-25 ; Times: 3
+	Date: 2018-07-01 ; Times: 2
+	Date: 2018-07-17 ; Times: 3
+	Date: 2018-07-20 ; Times: 7
+	Date: 2018-07-09 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Ictinia mississippiensis mappable:1" ; Times: 1
+	Query: "Caracara cheriway mappable:1" ; Times: 1
+	Query: "Chaetura pelagica mappable:1" ; Times: 1
+	Query: "Cairina moschata" ; Times: 2
+	Query: "Egretta caerulea mappable:1" ; Times: 1
+	Query: "Buteo platypterus mappable:1" ; Times: 1
+	Query: "Haematopus palliatus mappable:1" ; Times: 1
+	Query: "Ardea alba mappable:1" ; Times: 1
+	Query: "specificepithet:difficilis genus:Empidonax year &gt;= 1908 year &lt;= 1908" ; Times: 2
+	Query: "Egretta tricolor mappable:1" ; Times: 1
+	Query: "Tringa semipalmata mappable:1" ; Times: 1
+	Query: "Coccyzus erythropthalmus mappable:1" ; Times: 1
+	Query: "Phalacrocorax brasilianus mappable:1" ; Times: 1
+	Query: "eurocephalus" ; Times: 1
+	Query: "Contopus cooperi mappable:1" ; Times: 1
+	Query: "Iowa marshall county Minerva" ; Times: 1
+	Query: "Cyanocorax yncas mappable:1" ; Times: 1
+	Query: "Stercorarius longicaudus mappable:1" ; Times: 1
+	Query: "Amazona viridigenalis year &gt;= 1500 year &lt;= 1940" ; Times: 1
+	Query: "L.E. Allen" ; Times: 1
+	Query: "aves 7892" ; Times: 1
+	Query: "Cistothorus platensis mappable:1" ; Times: 1
+	Query: "Tachybaptus dominicus mappable:1" ; Times: 1
+	Query: "Mycteria americana mappable:1" ; Times: 1
+	Query: "Falco femoralis mappable:1" ; Times: 1
+	Query: "Setophaga fusca mappable:1" ; Times: 1
+	Query: "Bartramia longicauda mappable:1" ; Times: 1
+	Query: "egg zenaida brownsville" ; Times: 1
+	Query: "genus:eurocephalus" ; Times: 1
+	Query: "Myiarchus tuberculifer mappable:1" ; Times: 1
+	Query: "elf" ; Times: 5
+	Query: "egg athene california 1895" ; Times: 1
+	Query: "Empidonax alnorum mappable:1" ; Times: 1
+	Query: "Egretta thula mappable:1" ; Times: 1
+	Query: "oklahoma gentilis" ; Times: 5
+	Query: "Peucaea aestivalis" ; Times: 3
+	Query: "bald eagle egg" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "aves arctic coast" ; Times: 1
+	Query: "Anhinga anhinga mappable:1" ; Times: 1
+	Query: "specificepithet:bairdii genus:ammodramus ( egg)" ; Times: 1
+	Query: "Platalea ajaja mappable:1" ; Times: 1
+	Query: "genus:Larus class:Aves recordedby:P.I.Osburn" ; Times: 1
+	Query: "Limosa fedoa mappable:1" ; Times: 1
+	Query: "egg arctic coast" ; Times: 1
+	Query: "Leptotila verreauxi" ; Times: 1
+	Query: "Parabuteo unicinctus mappable:1" ; Times: 1
+	Query: "Numenius phaeopus mappable:1" ; Times: 1
+	Query: "Ixobrychus exilis mappable:1" ; Times: 1
+	Query: "Amazona viridigenalis year &gt;= 1908 year &lt;= 1969" ; Times: 1
+	Query: "Stercorarius pomarinus mappable:1" ; Times: 1
+	Query: "Chordeiles acutipennis" ; Times: 2
+	Query: "Tachybaptus dominicus" ; Times: 2
+	Query: "Tyrannus dominicensis eggs" ; Times: 1
+	Query: "egg auklet alaska" ; Times: 1
+	Query: "Rhynchotus rufescens" ; Times: 2
+	Query: "Actitis macularius mappable:1" ; Times: 3
+	Query: "Dendrocygna bicolor mappable:1" ; Times: 1
+	Query: "Buteo swainsoni mappable:1" ; Times: 1
+	Query: "Eudocimus albus mappable:1" ; Times: 1
+	Query: "Imperial woodpecker" ; Times: 1
+	Query: "Aramus guarauna mappable:1" ; Times: 1
+	Query: "Iowa marshall county allen" ; Times: 1
+	Query: "Tringa flavipes mappable:1" ; Times: 1
+	Query: "dinornis" ; Times: 1
+	Query: "Chaetura pelagica" ; Times: 2
+	Query: "Iowa marshall county albion" ; Times: 1
+	Query: "egg genus:Spheniscus" ; Times: 2
+	Query: "Chordeiles acutipennis mappable:1" ; Times: 1
+	Query: "UWBM 7362" ; Times: 1
+	Query: "Coragyps atratus mappable:1" ; Times: 1
+	Query: "Nyctanassa violacea mappable:1" ; Times: 1
+	Query: "Phaethon aethereus" ; Times: 2
+	Query: "Iowa Marshall county" ; Times: 2
+	Query: "specificepithet:ruber genus:Phoenicopterus year &gt;= 1870 year &lt;= 1910" ; Times: 1
+	Query: "specificepithet:bairdii genus:ammodramus" ; Times: 2
+	Query: "Elanoides forficatus mappable:1" ; Times: 1
+	Query: "Leptotila verreauxi mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 977 download events in this period)
+Total number of records downloaded: 187
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: United States ; Times: 17
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-29 ; Times: 1
+	Date: 2018-07-17 ; Times: 4
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-30 ; Times: 9
+	Date: 2018-07-06 ; Times: 3
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-02 ; Times: 2
+	Date: 2018-07-31 ; Times: 2
+	Date: 2018-07-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:sinuatus genus:Cardinalis order:Passeriformes" ; Times: 1
+	Query: "specificepithet:magna genus:Sturnella" ; Times: 1
+	Query: "specificepithet:nitens genus:Phainopepla" ; Times: 1
+	Query: "specificepithet:curvirostre genus:Toxostoma" ; Times: 1
+	Query: "Catharus ustulatus" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella" ; Times: 1
+	Query: "specificepithet:crissale genus:Toxostoma" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo order:Passeriformes" ; Times: 1
+	Query: "genus:eurocephalus" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "specificepithet:flaviceps genus:Auriparus" ; Times: 1
+	Query: "vntype:specimen genus:amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Barred owl" ; Times: 1
+	Query: "specificepithet:bilineata genus:Amphispiza" ; Times: 1
+	Query: "Geothlypis tolmiei" ; Times: 1
+	Query: "Pinicola enucleator" ; Times: 1
+	Query: "specificepithet:sialis genus:Sialia" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Imperial woodpecker" ; Times: 1
+	Query: "specificepithet:fusca genus:Melozone" ; Times: 1
+	Query: "Peucaea aestivalis" ; Times: 1
+	Query: "Poecile gambeli" ; Times: 1
+	Query: "Regulus calendula" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus family:Troglodytidae order:Passeriformes" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+
+
+End of report.
