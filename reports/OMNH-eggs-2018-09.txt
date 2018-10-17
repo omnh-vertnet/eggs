@@ -1,0 +1,109 @@
+Report for Institution Code OMNH, Resource eggs
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 63
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: Norway ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-14 ; Times: 2
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-05 ; Times: 2
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-07 ; Times: 2
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-20 ; Times: 4
+	Date: 2018-09-28 ; Times: 2
+	Date: 2018-09-29 ; Times: 1
+	Date: 2018-09-18 ; Times: 3
+	Date: 2018-09-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:aberti genus:melozone" ; Times: 1
+	Query: "egg ligon" ; Times: 1
+	Query: "Greater Prairie-Chicken" ; Times: 1
+	Query: "egg binns" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 1
+	Query: "snow bunting" ; Times: 1
+	Query: "greater sage-grouse" ; Times: 2
+	Query: "locality:teller country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+	Query: "Guadalupe Island 1897" ; Times: 1
+	Query: "genus:Passerina stateprovince:&#34;Wyoming&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "egg mississippi" ; Times: 2
+	Query: "specificepithet:cheriway genus:Caracara county:&#34;-&#34; stateprovince:&#34;-&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "electra" ; Times: 1
+	Query: "16678" ; Times: 1
+	Query: "aepyornis" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:wheeler" ; Times: 1
+	Query: "specificepithet:crissalis genus:melozone" ; Times: 2
+	Query: "wood stork" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "elf" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 846 download events in this period)
+Total number of records downloaded: 175
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Canada ; Times: 1
+	Country: Norway ; Times: 2
+	Country: Mexico ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-24 ; Times: 5
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-13 ; Times: 3
+	Date: 2018-09-20 ; Times: 2
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "RED BELLIED WOODPECKER" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "STERNULA ANTILLARUM" ; Times: 1
+	Query: "locality:teller country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "specificepithet:cheriway genus:Caracara county:&#34;-&#34; stateprovince:&#34;-&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 2
+	Query: "egretta thula" ; Times: 2
+	Query: "NORTHERN FLICKER" ; Times: 1
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "HAIRY WOODPECKER" ; Times: 1
+	Query: "sterna dougallii vntype:specimen country:&#34;United States&#34; continent:America year &gt;= 1880 year &lt;= 1940 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "locality:nome country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+
+
+End of report.
