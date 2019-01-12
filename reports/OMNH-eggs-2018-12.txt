@@ -1,0 +1,111 @@
+Report for Institution Code OMNH, Resource eggs
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 69
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Canada ; Times: 1
+	Country: France ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-20 ; Times: 2
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-23 ; Times: 4
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-27 ; Times: 2
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-07 ; Times: 3
+	Date: 2018-12-16 ; Times: 2
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-13 ; Times: 2
+	Date: 2018-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Burrowing owl" ; Times: 1
+	Query: "Thalasseus sandvicensis mappable:1" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Poecile class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Alca torda mappable:1" ; Times: 1
+	Query: "Acrocephalus palustris eggs" ; Times: 2
+	Query: "vntype:specimen class:aves recordedby:burtch" ; Times: 1
+	Query: "Gavia immer mappable:1" ; Times: 1
+	Query: "Accipiter gentilis eggs" ; Times: 2
+	Query: "Alligator oklahoma" ; Times: 2
+	Query: "genus:phalacrocorax institutioncode:OMNH" ; Times: 1
+	Query: "Oreoscoptes montanus mappable:1" ; Times: 1
+	Query: "Alca torda  mappable:1" ; Times: 1
+	Query: "specificepithet:trichas genus:Geothlypis year &gt;= 1909 year &lt;= 1909" ; Times: 1
+	Query: "Charadrius wilsonia" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Dumetella year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "Hydrocoloeus minutus" ; Times: 1
+	Query: "vntype:specimen specificepithet:aegyptiaca genus:Alopochen" ; Times: 2
+	Query: "elf" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 809 download events in this period)
+Total number of records downloaded: 282
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Germany ; Times: 1
+	Country: Israel ; Times: 1
+	Country: India ; Times: 10
+	Country: Iran ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-20 ; Times: 7
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-25 ; Times: 1
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-07 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-24 ; Times: 2
+	Date: 2018-12-17 ; Times: 7
+	Date: 2018-12-12 ; Times: 2
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-18 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Glaucidium brasilianum" ; Times: 1
+	Query: "Surnia ulula" ; Times: 1
+	Query: "(&#34;curve-billed thrasher&#34; OR &#34;Toxostoma curvirostre&#34;)" ; Times: 1
+	Query: "glaucidium gnoma" ; Times: 1
+	Query: "Agapornis" ; Times: 1
+	Query: "megascops kennicottii" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "class:Aves county:&#34;Tulare&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 1845 year &lt;= 1950" ; Times: 1
+	Query: "Osburn PI" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "(&#34;cactus wren&#34; OR &#34;Campylorhynchus brunneicapillus&#34;)" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "aegolius funereus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "(&#34;verdin&#34; OR &#34;Auriparus flaviceps&#34;)" ; Times: 1
+	Query: "phoenicurus phoenicurus" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "black throated sparrow" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "Caprimulgus aegyptius" ; Times: 1
+	Query: "Strix aluco" ; Times: 1
+	Query: "cactus wren" ; Times: 1
+	Query: "curve-billed thrasher" ; Times: 1
+	Query: "verdin" ; Times: 1
+	Query: "(&#34;black-throated sparrow&#34; OR &#34;Amphispiza bilineata&#34;)" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+
+
+End of report.
