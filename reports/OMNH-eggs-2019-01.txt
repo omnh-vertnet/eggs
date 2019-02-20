@@ -1,0 +1,107 @@
+Report for Institution Code OMNH, Resource eggs
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 94
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Peru ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 2
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-22 ; Times: 2
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-14 ; Times: 1
+	Date: 2019-01-15 ; Times: 3
+	Date: 2019-01-09 ; Times: 7
+	Date: 2019-01-17 ; Times: 2
+	Date: 2019-01-24 ; Times: 3
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-08 ; Times: 2
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-11 ; Times: 5
+	Date: 2019-01-31 ; Times: 1
+	Date: 2019-01-13 ; Times: 5
+	Date: 2019-01-30 ; Times: 1
+	Date: 2019-01-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Parabuteo unicinctus" ; Times: 1
+	Query: "OMNH 487" ; Times: 2
+	Query: "little egret" ; Times: 1
+	Query: "&#34;H. Wright&#34; AND &#34;Island&#34;" ; Times: 1
+	Query: "Colaptes rubiginosus" ; Times: 1
+	Query: "omnh 398" ; Times: 1
+	Query: "vntype:specimen specificepithet:asio genus:megascops stateprovince:&#34;north dakota&#34;" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "&#34;Peyton&#34; AND &#34;Island&#34; NOT &#34;Alaska&#34;" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Guadalupe finch" ; Times: 1
+	Query: "ladder-backed woodpecker" ; Times: 2
+	Query: "Megaceryle torquata" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "specificepithet:asio genus:megascops institutioncode:OMNH" ; Times: 1
+	Query: "Leptotila verreauxi" ; Times: 1
+	Query: "(drayton)" ; Times: 1
+	Query: "snow bunting" ; Times: 1
+	Query: "red-cockaded woodpecker" ; Times: 1
+	Query: "Alligator Oklahoma" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "Rhynchotus rufescens" ; Times: 1
+	Query: "&#34;Willet&#34; AND &#34;Island&#34;" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "&#34;S. B. Peyton&#34; AND &#34;Island&#34;" ; Times: 1
+	Query: "Aramus guarauna" ; Times: 1
+	Query: "&#34;Thompson&#34; AND &#34;Anacapa Island&#34;" ; Times: 1
+	Query: "reddish egret" ; Times: 2
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "Ammodramus maritimus" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 1
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "GFB" ; Times: 1
+	Query: "Accipiter albogularis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 962 download events in this period)
+Total number of records downloaded: 31
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "reddish egret" ; Times: 1
+	Query: "genus:sula specificepithet:leucogaster" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "Oceanodroma melania" ; Times: 1
+	Query: "rosy finch" ; Times: 1
+	Query: "Toxostoma crissale" ; Times: 1
+
+
+End of report.
