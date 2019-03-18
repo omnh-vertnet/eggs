@@ -1,0 +1,99 @@
+Report for Institution Code OMNH, Resource eggs
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 87
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: United Kingdom ; Times: 1
+	Country: France ; Times: 1
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-12 ; Times: 16
+	Date: 2019-02-04 ; Times: 3
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-15 ; Times: 2
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-21 ; Times: 2
+	Date: 2019-02-17 ; Times: 2
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-18 ; Times: 5
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Callipepla squamata squamata mappable:1" ; Times: 2
+	Query: "Aphelocoma woodhouseii utah egg" ; Times: 1
+	Query: "aleutian tern" ; Times: 2
+	Query: "specificepithet:pictus genus:Chrysolophus class:Aves" ; Times: 1
+	Query: "Eudyptes chrysocome" ; Times: 2
+	Query: "Melozone fusca fusca mappable:1" ; Times: 1
+	Query: "rhynchotus" ; Times: 1
+	Query: "Colaptes cafer cafer mappable:1" ; Times: 1
+	Query: "Corvus cryptoleucus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:palustris genus:Acrocephalus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "locality:herschel island" ; Times: 1
+	Query: "Toxostoma crissale crissale mappable:1" ; Times: 1
+	Query: "Colaptes auratus chrysocaulosus mappable:1" ; Times: 1
+	Query: "Callipepla squamata mappable:1" ; Times: 1
+	Query: "sedge wren" ; Times: 1
+	Query: "family:Haematopodidae institutioncode:OMNH" ; Times: 1
+	Query: "Corvus cryptoleucus cryptoleucus mappable:1" ; Times: 1
+	Query: "25 june 1886" ; Times: 1
+	Query: "Cardinalis sinuatus mappable:1" ; Times: 3
+	Query: "swallow-tailed kite" ; Times: 1
+	Query: "Cardinalis sinuatus sinuatus mappable:1" ; Times: 1
+	Query: "Vireo bellii county:&#34;los angeles&#34;" ; Times: 1
+	Query: "Toxostoma crissale mappable:1" ; Times: 1
+	Query: "vinalhaven stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "great auk" ; Times: 5
+	Query: "7488 OMNH" ; Times: 1
+	Query: "Russland" ; Times: 1
+	Query: "Toxostoma lecontei lecontei mappable:1" ; Times: 1
+	Query: "genus:otis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1227 download events in this period)
+Total number of records downloaded: 117
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-11 ; Times: 2
+	Date: 2019-02-03 ; Times: 1
+	Date: 2019-02-13 ; Times: 2
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-07 ; Times: 1
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "Melanerpes carolinus vntype:specimen" ; Times: 1
+	Query: "phaethon aethereus" ; Times: 1
+	Query: "montezuma quail" ; Times: 1
+	Query: "tree swallow" ; Times: 1
+	Query: "rynchops niger" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "toxostoma redivivum" ; Times: 1
+	Query: "genus:otis" ; Times: 1
+
+
+End of report.
