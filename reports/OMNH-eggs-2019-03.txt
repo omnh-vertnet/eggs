@@ -1,0 +1,112 @@
+Report for Institution Code OMNH, Resource eggs
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 116
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 58
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-06 ; Times: 33
+	Date: 2019-03-10 ; Times: 3
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-02 ; Times: 1
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-19 ; Times: 1
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-14 ; Times: 5
+	Date: 2019-03-15 ; Times: 2
+	Date: 2019-03-12 ; Times: 1
+	Date: 2019-03-07 ; Times: 3
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Guadalupe Island AND Anthony" ; Times: 1
+	Query: "specificepithet:trichas year &gt;= 1909 year &lt;= 1909" ; Times: 1
+	Query: "catalognumber:1393" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Arkansas" ; Times: 4
+	Query: "Guadalupe Island AND Anthony AND 1897" ; Times: 1
+	Query: "specificepithet:anna genus:calypte preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:1281" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:California" ; Times: 3
+	Query: "specificepithet:caurinus genus:corvus" ; Times: 3
+	Query: "atlantic puffin Greenland" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:New York" ; Times: 3
+	Query: "specificepithet:ruber genus:phoenicopterus year &lt;= 1920" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:pooecetes collectioncode:Egg" ; Times: 1
+	Query: "aquila clanga" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Florida" ; Times: 4
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:North Dakota" ; Times: 4
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Washington" ; Times: 4
+	Query: "montezuma quail" ; Times: 4
+	Query: "cygnus atratus egg vntype:specimen" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "muscovy duck" ; Times: 1
+	Query: "class:Aves catalognumber:1396" ; Times: 1
+	Query: "eastern whip-poor-will" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Oklahoma" ; Times: 4
+	Query: "white-tailed hawk" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Texas" ; Times: 4
+	Query: "class:Aves catalognumber:1266" ; Times: 1
+	Query: "San Pedro River Fairbank Arizona vntype:specimen" ; Times: 1
+	Query: "locality:Tidd Swamp" ; Times: 2
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "Phalacrocorax brasilianus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1281 download events in this period)
+Total number of records downloaded: 37
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-07 ; Times: 2
+	Date: 2019-03-06 ; Times: 2
+	Date: 2019-03-01 ; Times: 2
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "american coot" ; Times: 1
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus continent:north america" ; Times: 1
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "specificepithet:ruber genus:phoenicopterus year &lt;= 1920" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "vntype:specimen genus:porphyrio" ; Times: 1
+	Query: "genus:Leucosticte stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Phainopepla" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "corvus caurinus" ; Times: 1
+	Query: "montezuma quail" ; Times: 1
+
+
+End of report.
