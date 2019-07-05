@@ -1,0 +1,148 @@
+Report for Institution Code OMNH, Resource eggs
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 74
+Number of records retrieved in searches: 141
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 63
+	Country: Guatemala ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-21 ; Times: 1
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-25 ; Times: 2
+	Date: 2019-06-08 ; Times: 1
+	Date: 2019-06-09 ; Times: 5
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-07 ; Times: 1
+	Date: 2019-06-04 ; Times: 2
+	Date: 2019-06-16 ; Times: 3
+	Date: 2019-06-11 ; Times: 34
+	Date: 2019-06-10 ; Times: 13
+	Date: 2019-06-13 ; Times: 3
+	Date: 2019-06-30 ; Times: 1
+	Date: 2019-06-14 ; Times: 4
+	Date: 2019-06-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:sparverius genus:Falco class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vega gull" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; institutioncode:OMNH" ; Times: 1
+	Query: "genus:Cyanocorax specificepithet:yncas" ; Times: 1
+	Query: "genus:Aix" ; Times: 1
+	Query: "genus:Casuarius specificepithet:Casuarius" ; Times: 2
+	Query: "genus:Dromaius specificepithet:novaehollandiae" ; Times: 1
+	Query: "imperial woodpecker" ; Times: 2
+	Query: "genus:Scolopax specificepithet:minor" ; Times: 1
+	Query: "genus:Aethia specificepithet:pusilla" ; Times: 1
+	Query: "class:Aves catalognumber:3967 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Toxostoma specificepithet:longirostre" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "genus:Gelochelidon specificepithet:nilotica" ; Times: 1
+	Query: "genus:Nyctanassa specificepithet:violacea" ; Times: 1
+	Query: "genus:Anhinga specificepithet:anhinga" ; Times: 1
+	Query: "class:Aves catalognumber:2496 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Coronados AND 1910" ; Times: 1
+	Query: "red tailed deer" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Coronados AND 1899" ; Times: 1
+	Query: "genus:Ara specificepithet:macao" ; Times: 2
+	Query: "genus:Oceanodroma specificepithet:furcata" ; Times: 1
+	Query: "Caprimulgus fmnh" ; Times: 1
+	Query: "genus:Aeronautes specificepithet:saxatalis" ; Times: 1
+	Query: "genus:Cygnus specificepithet:atratus" ; Times: 1
+	Query: "genus:Anas specificepithet:discors" ; Times: 1
+	Query: "specificepithet:vociferus genus:Caprimulgus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Lanius specificepithet:excubitor" ; Times: 1
+	Query: "28317" ; Times: 1
+	Query: "genus:Cygnus specificepithet:buccinator" ; Times: 1
+	Query: "genus:Alectura specificepithet:lathami" ; Times: 1
+	Query: "genus:Amazona specificepithet:viridigenalis" ; Times: 1
+	Query: "genus:Caprimulgus specificepithet:vociferus" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:immutabilis" ; Times: 1
+	Query: "genus:Cettia specificepithet:diphone" ; Times: 1
+	Query: "elf owl" ; Times: 1
+	Query: "genus:Hydroprogne specificepithet:caspia" ; Times: 1
+	Query: "genus:Chordeiles specificepithet:acutipennis" ; Times: 1
+	Query: "genus:Aegolius specificepithet:acadicus" ; Times: 1
+	Query: "Henslow sparrow" ; Times: 4
+	Query: "genus:Alectoris specificepithet:rufa" ; Times: 1
+	Query: "genus:Mergus specificepithet:serrator" ; Times: 1
+	Query: "genus:Alca specificepithet:torda" ; Times: 1
+	Query: "genus:Micrathene specificepithet:whitneyi" ; Times: 1
+	Query: "Butorides striata" ; Times: 1
+	Query: "genus:Ciconia specificepithet:ciconia" ; Times: 1
+	Query: "genus:Rhea specificepithet:americana" ; Times: 1
+	Query: "Centrocercus urophasianus mappable:1" ; Times: 2
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 2
+	Query: "genus:Ardea specificepithet:alba" ; Times: 1
+	Query: "Coronados AND 1909" ; Times: 1
+	Query: "genus:Gavia specificepithet:immer" ; Times: 1
+	Query: "genus:Cinclus specificepithet:mexicanus" ; Times: 1
+	Query: "genus:Diomedea specificepithet:exulans" ; Times: 1
+	Query: "genus:Parabuteo specificepithet:unicinctus" ; Times: 1
+	Query: "specificepithet:rubripes genus:Anas class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 2
+	Query: "genus:Geococcyx specificepithet:californianus" ; Times: 1
+	Query: "genus:Rhynchotus specificepithet:rufescens" ; Times: 1
+	Query: "genus:Morus  specificepithet:bassanus" ; Times: 1
+	Query: "Boreal owl" ; Times: 1
+	Query: "specificepithet:solitarius genus:Vireo class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Chen specificepithet:caerulescens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 1182 download events in this period)
+Total number of records downloaded: 171
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-26 ; Times: 1
+	Date: 2019-06-06 ; Times: 5
+	Date: 2019-06-07 ; Times: 2
+	Date: 2019-06-04 ; Times: 14
+	Date: 2019-06-05 ; Times: 2
+	Date: 2019-06-11 ; Times: 2
+	Date: 2019-06-03 ; Times: 6
+	Date: 2019-06-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "western screech owl" ; Times: 1
+	Query: "snowy owl" ; Times: 1
+	Query: "Barn Owl" ; Times: 1
+	Query: "vntype:specimen specificepithet:amoena genus:Passerina" ; Times: 1
+	Query: "sage grouse" ; Times: 1
+	Query: "Bald Eagle" ; Times: 1
+	Query: "cathartes aura" ; Times: 2
+	Query: "vntype:specimen specificepithet:culicivorus genus:Basileuterus class:Aves" ; Times: 1
+	Query: "bald eagle north america" ; Times: 1
+	Query: "golden eagle" ; Times: 1
+	Query: "Cedar Waxwing" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "elf owl" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "blue jay" ; Times: 1
+	Query: "ruby throated hummingbird" ; Times: 2
+	Query: "veery" ; Times: 1
+	Query: "Turdus migratorius" ; Times: 1
+	Query: "bald eagle" ; Times: 7
+	Query: "vntype:specimen specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "Yellow bellied sapsucker" ; Times: 1
+	Query: "White crowned Sparrow" ; Times: 1
+	Query: "ruby-throated hummingbird" ; Times: 2
+
+
+End of report.
