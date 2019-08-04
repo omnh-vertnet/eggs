@@ -1,0 +1,135 @@
+Report for Institution Code OMNH, Resource eggs
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 78
+Number of records retrieved in searches: 178
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 60
+	Country: Madagascar ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 8
+	Country: Nepal ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 5
+	Date: 2019-07-08 ; Times: 23
+	Date: 2019-07-02 ; Times: 2
+	Date: 2019-07-22 ; Times: 2
+	Date: 2019-07-12 ; Times: 12
+	Date: 2019-07-13 ; Times: 1
+	Date: 2019-07-03 ; Times: 4
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-05 ; Times: 2
+	Date: 2019-07-04 ; Times: 3
+	Date: 2019-07-07 ; Times: 1
+	Date: 2019-07-15 ; Times: 5
+	Date: 2019-07-31 ; Times: 4
+	Date: 2019-07-20 ; Times: 3
+	Date: 2019-07-14 ; Times: 1
+	Date: 2019-07-23 ; Times: 4
+	Date: 2019-07-16 ; Times: 3
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "leucosticte AND eggs" ; Times: 1
+	Query: "genus:Ictinia specificepithet:mississippiensis" ; Times: 1
+	Query: "genus:Porphyrio specificepithet:martinica" ; Times: 1
+	Query: "genus:Megaceryle specificepithet:alcyon" ; Times: 1
+	Query: "Branta hutchinsii" ; Times: 1
+	Query: "specificepithet:penelope class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "genus:Seiurus specificepithet:aurocapilla" ; Times: 1
+	Query: "genus:Gavia specificepithet:immer" ; Times: 1
+	Query: "Anas fulvigula mappable:1" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 3
+	Query: "Poecile cinctus" ; Times: 1
+	Query: "Mountain Plover" ; Times: 1
+	Query: "Psittacidae eggs Mexico" ; Times: 1
+	Query: "mountain plover" ; Times: 1
+	Query: "Mycteria americana mappable:1" ; Times: 1
+	Query: "genus:Phasianus" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "Chen caerulescens" ; Times: 1
+	Query: "specificepithet:lagopus genus:buteo class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "genus:Tachybaptus specificepithet:dominicus" ; Times: 1
+	Query: "genus:Rynchops specificepithet:niger" ; Times: 1
+	Query: "genus:Sternula specificepithet:antillarum" ; Times: 1
+	Query: "28317" ; Times: 1
+	Query: "country:&#34;United States&#34; Poecile cinctus" ; Times: 1
+	Query: "Anthony AND Guadalupe Island" ; Times: 1
+	Query: "cackling goose" ; Times: 1
+	Query: "genus:Cyanocorax specificepithet:yncas" ; Times: 1
+	Query: "campephilus imperialis institutioncode:OMNH" ; Times: 2
+	Query: "Bubo virginianus Texas egg" ; Times: 1
+	Query: "genus:Spiza specificepithet:americana" ; Times: 1
+	Query: "Sternula antillarum mappable:1" ; Times: 5
+	Query: "genus:Aix specificepithet:sponsa" ; Times: 1
+	Query: "Ohio vntype:specimen specificepithet:quiscula genus:Quiscalus" ; Times: 1
+	Query: "genus:Spinus specificepithet:pinus" ; Times: 1
+	Query: "family:Alcidae class:aves locality:san geronimo country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Rallus specificepithet:limicola" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "genus:Oxyura specificepithet:jamaicensis" ; Times: 1
+	Query: "Branta bernicla" ; Times: 1
+	Query: "genus:Aepyornis" ; Times: 1
+	Query: "family:alcidae locality:geronimo" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 2
+	Query: "genus:Strix specificepithet:varia" ; Times: 1
+	Query: "genus:Egretta specificepithet:thula" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 18
+	Query: "genus:Synthliboramphus specificepithet:antiquus" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "class:aves locality:san geronimo country:&#34;mexico&#34;" ; Times: 1
+	Query: "egg L.R. Wolfe utah" ; Times: 1
+	Query: "Pelecanus AND Anacapa AND Peyton" ; Times: 1
+	Query: "Oceanodroma socorroensis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 985 download events in this period)
+Total number of records downloaded: 63
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-08 ; Times: 3
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-22 ; Times: 1
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-10 ; Times: 2
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Branta bernicla" ; Times: 1
+	Query: "porzana carolina" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Branta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Aphelocoma stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "locality:Coronados" ; Times: 1
+	Query: "Branta hutchinsii" ; Times: 1
+	Query: "Porzana carolina" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 1
+
+
+End of report.
