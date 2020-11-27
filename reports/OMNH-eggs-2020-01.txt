@@ -1,0 +1,105 @@
+Report for Institution Code OMNH, Resource eggs
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 138
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 22
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 7
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 4
+	Date: 2020-01-02 ; Times: 3
+	Date: 2020-01-01 ; Times: 3
+	Date: 2020-01-17 ; Times: 3
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-14 ; Times: 3
+	Date: 2020-01-20 ; Times: 7
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-12 ; Times: 1
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-29 ; Times: 2
+	Date: 2020-01-23 ; Times: 1
+	Date: 2020-01-30 ; Times: 1
+	Date: 2020-01-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "campephilus guatemalensis egg" ; Times: 1
+	Query: "red-crested pochard" ; Times: 1
+	Query: "jocosus Pycnonotus" ; Times: 1
+	Query: "fulvous whistling duck" ; Times: 1
+	Query: "boreal owl" ; Times: 1
+	Query: "bushtit egg" ; Times: 4
+	Query: "specificepithet:cooperii genus:accipiter institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:4877 institutioncode:OMNH" ; Times: 3
+	Query: "elf" ; Times: 3
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:braly basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "longspur noble" ; Times: 2
+	Query: "Purple Gallinule" ; Times: 1
+	Query: "specificepithet:asio genus:megascops institutioncode:OMNH" ; Times: 2
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:prill basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:immer genus:Gavia class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ruddy shelduck" ; Times: 5
+	Query: "short eared owl" ; Times: 2
+	Query: "lanius egg saskatchewan" ; Times: 1
+	Query: "Melanerpes aurifrons AND Oklahoma" ; Times: 2
+	Query: "Campephilus guatemalensis egg" ; Times: 1
+	Query: "county:&#34;ellis&#34; stateprovince:&#34;oklahoma&#34; (d)" ; Times: 1
+	Query: "recordedby:Hume (Hume) year &gt;= 1800 year &lt;= 1900 basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1584 download events in this period)
+Total number of records downloaded: 172
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-23 ; Times: 1
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-24 ; Times: 3
+	Date: 2020-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "specificepithet:asio genus:megascops institutioncode:OMNH" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "longspur noble" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "Burhinus oedicnemus" ; Times: 1
+	Query: "recordedby:Hume (Hume) year &gt;= 1800 year &lt;= 1900 basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
