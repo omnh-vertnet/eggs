@@ -1,0 +1,193 @@
+Report for Institution Code OMNH, Resource eggs
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 383
+Number of records retrieved in searches: 1322
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: United Kingdom ; Times: 350
+	Country: Germany ; Times: 1
+	Country: India ; Times: 2
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-02 ; Times: 3
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-11 ; Times: 5
+	Date: 2020-04-17 ; Times: 4
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 42
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-30 ; Times: 1
+	Date: 2020-04-07 ; Times: 125
+	Date: 2020-04-01 ; Times: 1
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-03 ; Times: 56
+	Date: 2020-04-21 ; Times: 107
+	Date: 2020-04-29 ; Times: 8
+	Date: 2020-04-08 ; Times: 21
+	Date: 2020-04-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas carolinensis" ; Times: 10
+	Query: "birds brazos county" ; Times: 1
+	Query: "Anser fabalis" ; Times: 5
+	Query: "Stercorarius longicaudus" ; Times: 6
+	Query: "Anser cygnoides" ; Times: 10
+	Query: "Buteo swainsoni" ; Times: 4
+	Query: "Pelecanus erythrorhynchos Texas" ; Times: 1
+	Query: "Hippolais polyglotta" ; Times: 4
+	Query: "junco alberta egg" ; Times: 1
+	Query: "Anas strepera" ; Times: 13
+	Query: "Cairina moschata" ; Times: 8
+	Query: "Buteo albicaudatus" ; Times: 5
+	Query: "Buteo platypterus" ; Times: 7
+	Query: "Ardea alba Texas" ; Times: 1
+	Query: "Anhinga anhinga" ; Times: 2
+	Query: "class:aves country:&#34;mexico&#34; recordedby:field year &gt;= 1920 year &lt;= 1920" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 4
+	Query: "lesser prairie chicken" ; Times: 3
+	Query: "Stercorarius pomarinus" ; Times: 2
+	Query: "Cyanopica cyanus" ; Times: 8
+	Query: "Cygnus atratus" ; Times: 5
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "Ardea alba" ; Times: 9
+	Query: "Buteogallus anthracinus" ; Times: 4
+	Query: "Sternula albifrons" ; Times: 1
+	Query: "Gyps himalayensis" ; Times: 4
+	Query: "Chrysolophus pictus" ; Times: 3
+	Query: "Larus glaucoides" ; Times: 6
+	Query: "Coragyps atratus" ; Times: 2
+	Query: "catalognumber:107 institutioncode:OMNH" ; Times: 1
+	Query: "Aythya americana" ; Times: 4
+	Query: "Columba palumbus" ; Times: 3
+	Query: "Aptenodytes patagonicus" ; Times: 4
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "Anas americana" ; Times: 11
+	Query: "Spheniscus demersus" ; Times: 4
+	Query: "harlow egg" ; Times: 1
+	Query: "Phalacrocorax penicillatus" ; Times: 4
+	Query: "Butorides striata" ; Times: 9
+	Query: "Lophura swinhoii" ; Times: 3
+	Query: "Larus vegae" ; Times: 3
+	Query: "stateprovince:&#34;alberta&#34; recordedby:wilby" ; Times: 1
+	Query: "Rynchops niger" ; Times: 6
+	Query: "Raine 1903 Canada" ; Times: 1
+	Query: "Phasianus versicolor" ; Times: 3
+	Query: "Phalacrocorax brasilianus" ; Times: 4
+	Query: "Pelecanus conspicillatus" ; Times: 4
+	Query: "Alectoris rufa" ; Times: 6
+	Query: "Aix sponsa" ; Times: 2
+	Query: "Rhea americana" ; Times: 3
+	Query: "Branta bernicla" ; Times: 5
+	Query: "Columba oenas" ; Times: 3
+	Query: "elf" ; Times: 3
+	Query: "Anser indicus" ; Times: 5
+	Query: "Vireo huttoni victoria" ; Times: 1
+	Query: "Nyctanassa violacea Texas" ; Times: 1
+	Query: "Fratercula corniculata" ; Times: 6
+	Query: "Delichon urbica" ; Times: 3
+	Query: "Lophura nycthemera" ; Times: 3
+	Query: "locality:robinson county:&#34;chatham&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:livia genus:Columba preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Gallinula chloropus" ; Times: 5
+	Query: "Chrysolophus amherstiae" ; Times: 3
+	Query: "Calamospiza melanocorys" ; Times: 3
+	Query: "Buteo regalis" ; Times: 4
+	Query: "Aramus guarauna" ; Times: 4
+	Query: "Chroicocephalus ridibundus" ; Times: 6
+	Query: "Eudocimus albus" ; Times: 4
+	Query: "Eudocimus ruber" ; Times: 3
+	Query: "Egretta tricolor Texas" ; Times: 1
+	Query: "Coccyzus erythropthalmus" ; Times: 2
+	Query: "netta rufina egg" ; Times: 1
+	Query: "Butorides virescens Texas" ; Times: 1
+	Query: "Netta rufina" ; Times: 6
+	Query: "ummz institutioncode:OMNH" ; Times: 3
+	Query: "Recurvirostra americana" ; Times: 2
+	Query: "Sternula antillarum" ; Times: 6
+	Query: "Stercorarius skua" ; Times: 2
+	Query: "Molothrus aeneus" ; Times: 2
+	Query: "Aeronautes saxatalis" ; Times: 3
+	Query: "Corvus cryptoleucus" ; Times: 9
+	Query: "Leucosticte arctoa" ; Times: 7
+	Query: "Buteo lagopus" ; Times: 6
+	Query: "Rhodostethia rosea" ; Times: 6
+	Query: "Phalacrocorax urile" ; Times: 4
+	Query: "Pelecanus crispus" ; Times: 1
+	Query: "Podiceps auritus" ; Times: 7
+	Query: "Pelecanus occidentalis Texas" ; Times: 1
+	Query: "Puffinus gravis" ; Times: 3
+	Query: "Bambusicola fytchii" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 8
+	Query: "Haliaeetus albicilla" ; Times: 7
+	Query: "Syrmaticus reevesii" ; Times: 3
+	Query: "Egretta caerulea Texas" ; Times: 1
+	Query: "Anas clypeata" ; Times: 13
+	Query: "Eudocimus albus Texas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1171 download events in this period)
+Total number of records downloaded: 363
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-11 ; Times: 3
+	Date: 2020-04-17 ; Times: 2
+	Date: 2020-04-15 ; Times: 6
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-30 ; Times: 4
+	Date: 2020-04-07 ; Times: 3
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-03 ; Times: 1
+	Date: 2020-04-29 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Egretta rufescens Texas" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucocephalus genus:Haliaeetus preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rallus elegans elegans" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "Pelecanus erythrorhynchos Texas" ; Times: 1
+	Query: "Nyctanassa violacea Texas" ; Times: 1
+	Query: "Egretta caerulea Texas" ; Times: 1
+	Query: "vntype:specimen specificepithet:livia genus:Columba preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Scolopax" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "golden eagle" ; Times: 1
+	Query: "vntype:specimen specificepithet:americana genus:Fulica preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "stateprovince:&#34;oklahoma&#34; institutioncode:OMNH" ; Times: 1
+	Query: "Aphelocoma californica" ; Times: 1
+	Query: "Rallus longirostris" ; Times: 1
+	Query: "Tyrannus melancholicus mexico" ; Times: 1
+	Query: "Ardea alba Texas" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Pelecanus occidentalis Texas" ; Times: 2
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Bubo virginianus texas" ; Times: 1
+	Query: "lesser prairie chicken" ; Times: 1
+	Query: "Ardea herodias Texas" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "Egretta tricolor Texas" ; Times: 1
+	Query: "vntype:specimen specificepithet:rustica genus:Hirundo preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Butorides virescens Texas" ; Times: 1
+	Query: "Eudocimus albus Texas" ; Times: 1
+	Query: "Rallus obsoletus" ; Times: 1
+
+
+End of report.
