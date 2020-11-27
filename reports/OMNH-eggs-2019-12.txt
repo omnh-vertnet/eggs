@@ -1,0 +1,69 @@
+Report for Institution Code OMNH, Resource eggs
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 17
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 9
+	Country: Sweden ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-10 ; Times: 6
+	Date: 2019-12-11 ; Times: 2
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-04 ; Times: 3
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Thryomanes bewickii sonoma california" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Sula nebouxii AND Island NOT Galapagos NOT Nayarit" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "Campylorhynchus brunneicapillus mvz egg" ; Times: 1
+	Query: "rev young" ; Times: 6
+	Query: "campephilus imperialis" ; Times: 3
+	Query: "boreal owl" ; Times: 2
+	Query: "sitta pusilla vntype:specimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 596 download events in this period)
+Total number of records downloaded: 41
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-18 ; Times: 3
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Circus aeruginosus" ; Times: 1
+	Query: "class:aves continent:asia preparations:eggs" ; Times: 1
+	Query: "continent:africa preparations:eggs" ; Times: 1
+	Query: "specificepithet:garzetta genus:Egretta" ; Times: 1
+	Query: "class:aves continent:africa preparations:eggs" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "spinus tristis tristis" ; Times: 1
+	Query: "sitta pusilla vntype:specimen" ; Times: 1
+
+
+End of report.
