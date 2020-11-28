@@ -1,0 +1,120 @@
+Report for Institution Code OMNH, Resource eggs
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 53
+Number of records retrieved in searches: 254
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: United Kingdom ; Times: 34
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-22 ; Times: 5
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-26 ; Times: 1
+	Date: 2020-10-25 ; Times: 1
+	Date: 2020-10-01 ; Times: 1
+	Date: 2020-10-13 ; Times: 34
+	Date: 2020-10-02 ; Times: 2
+	Date: 2020-10-05 ; Times: 1
+	Date: 2020-10-17 ; Times: 3
+	Date: 2020-10-06 ; Times: 1
+	Date: 2020-10-28 ; Times: 2
+	Date: 2020-10-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas carolinensis" ; Times: 1
+	Query: "Anser fabalis" ; Times: 1
+	Query: "Stercorarius longicaudus" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "Stercorarius skua" ; Times: 1
+	Query: "Larus glaucoides" ; Times: 1
+	Query: "Sterna striata" ; Times: 2
+	Query: "golden-winged warbler" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "red-naped sapsucker" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 2
+	Query: "Black Duck Ontario" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "Phalacrocorax urile" ; Times: 1
+	Query: "Fratercula corniculata" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Rhodostethia rosea" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "Cerorhinca monocerata" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "genus:Rynchops basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "white-winged dove" ; Times: 1
+	Query: "UMMZ genus:Fulica" ; Times: 1
+	Query: "Anser cygnoides" ; Times: 1
+	Query: "Anas rubripes (Ontario )" ; Times: 1
+	Query: "Buteo albicaudatus" ; Times: 1
+	Query: "Branta bernicla" ; Times: 1
+	Query: "Phalacrocorax penicillatus" ; Times: 1
+	Query: "Anser indicus" ; Times: 1
+	Query: "genus:Rynchops" ; Times: 2
+	Query: "catalognumber:4881 institutioncode:OMNH" ; Times: 1
+	Query: "Stercorarius pomarinus" ; Times: 1
+	Query: "Chroicocephalus ridibundus" ; Times: 2
+	Query: "gbifdatasetid:39f021d5-240c-445d-b62f-33bfed94938d" ; Times: 1
+	Query: "Haematopus palliatus" ; Times: 1
+	Query: "catalognumber:1982" ; Times: 1
+	Query: "Thalasseus sandvicensis" ; Times: 1
+	Query: "Eudocimus albus" ; Times: 1
+	Query: "passer domesticus oklahoma" ; Times: 1
+	Query: "Porphyrio porphyrio" ; Times: 1
+	Query: "Morus serrator" ; Times: 2
+	Query: "Recurvirostra americana" ; Times: 1
+	Query: "Anas clypeata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1521 download events in this period)
+Total number of records downloaded: 92
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Kenya ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-23 ; Times: 4
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-20 ; Times: 2
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-28 ; Times: 2
+	Date: 2020-10-05 ; Times: 1
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-07 ; Times: 2
+	Date: 2020-10-15 ; Times: 2
+	Date: 2020-10-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "bald eagle" ; Times: 2
+	Query: "&#34;Black-throated Blue Warbler&#34; year &gt;= 1800 year &lt;= 1980" ; Times: 1
+	Query: "vntype:specimen specificepithet:lewis genus:melanerpes country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen order:Coraciiformes" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "genus:Melanerpes country:&#34;México&#34;" ; Times: 2
+	Query: "genus:Melanerpes aurifrons country:&#34;México&#34;" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "passer domesticus oklahoma" ; Times: 1
+	Query: "aves brazil" ; Times: 1
+	Query: "Dromaiidae" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:athene" ; Times: 1
+	Query: "white-winged dove" ; Times: 1
+	Query: "Egretta garzetta" ; Times: 1
+
+
+End of report.
