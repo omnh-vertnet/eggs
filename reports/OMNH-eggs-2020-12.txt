@@ -1,0 +1,118 @@
+Report for Institution Code OMNH, Resource eggs
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 142
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 18
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 28
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-25 ; Times: 2
+	Date: 2020-12-27 ; Times: 1
+	Date: 2020-12-04 ; Times: 21
+	Date: 2020-12-20 ; Times: 3
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-03 ; Times: 4
+	Date: 2020-12-29 ; Times: 2
+	Date: 2020-12-18 ; Times: 3
+	Date: 2020-12-19 ; Times: 3
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-08 ; Times: 1
+	Date: 2020-12-11 ; Times: 5
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-14 ; Times: 2
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-01 ; Times: 1
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas carolinensis" ; Times: 1
+	Query: "Anser fabalis" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 2
+	Query: "Anser cygnoides" ; Times: 1
+	Query: "Molothrus aeneus" ; Times: 1
+	Query: "specificepithet:breweri genus:spizella stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "locality:Fort Worth stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "A.D. Henderson" ; Times: 2
+	Query: "Rhea americana" ; Times: 1
+	Query: "Hippolais polyglotta" ; Times: 1
+	Query: "Tarrant County" ; Times: 4
+	Query: "egg Tringa semipalmata" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "elf" ; Times: 7
+	Query: "Anas strepera" ; Times: 1
+	Query: "specificepithet:schistisagus genus:Larus continent:North America" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "Delichon urbica" ; Times: 2
+	Query: "Buteo albicaudatus" ; Times: 1
+	Query: "Leucosticte arctoa" ; Times: 1
+	Query: "Aepyornithiformes" ; Times: 1
+	Query: "Podiceps auritus" ; Times: 1
+	Query: "specificepithet:imperialis genus:campephilus" ; Times: 1
+	Query: "Puffinus gravis" ; Times: 1
+	Query: "Butorides striata" ; Times: 1
+	Query: "Larus vegae" ; Times: 1
+	Query: "Anser indicus" ; Times: 1
+	Query: "Spiza americana" ; Times: 1
+	Query: "Lark Bunting eggs" ; Times: 1
+	Query: "Calamospiza melanocorys" ; Times: 1
+	Query: "Acanthis hornemanni" ; Times: 2
+	Query: "Branta bernicla" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "Haliaeetus albicilla" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "1907 Lancaster" ; Times: 1
+	Query: "otis tarda" ; Times: 1
+	Query: "Pasadena 1906" ; Times: 1
+	Query: "Chaetura pelagica" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 705 download events in this period)
+Total number of records downloaded: 335
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 8
+	Country: India ; Times: 1
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-27 ; Times: 1
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-19 ; Times: 1
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-12 ; Times: 3
+	Date: 2020-12-03 ; Times: 3
+	Date: 2020-12-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "anas platyrhynchos" ; Times: 1
+	Query: "egg genus:Catharus" ; Times: 1
+	Query: "specificepithet:breweri genus:spizella stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "genus:Anas" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "class:aves country:Brazil" ; Times: 3
+	Query: "specificepithet:schistisagus genus:Larus continent:North America" ; Times: 1
+	Query: "family:anatidae" ; Times: 1
+	Query: "vntype:specimen class:Aves year &gt;= 1750 year &lt;= 1820 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "Woodpecker" ; Times: 1
+
+
+End of report.
